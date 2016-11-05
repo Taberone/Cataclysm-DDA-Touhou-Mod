@@ -1,2 +1,2 @@
 # Cataclysm-DDA-Touhou-Mod
-WIP
+Goes in data/mods. Not finished yet, though.
