@@ -1,0 +1,228 @@
+[
+    {
+        "type": "profession",
+        "ident": "tenshi_hinanawi",
+        "name": "Tenshi Hinanawi",
+        "description": "The carefree lifestyle that came with being a celestial sure was boring until the cataclysm struck. Now the world has irrevocably changed and you're stuck fighting for your life. Isn't that a nice change of pace for once?",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII"
+            ],
+        "skills": [
+            {
+                "level": 8,
+                "name": "cutting"
+            },
+            {
+                "level": 8,
+                "name": "melee"
+            },
+            {
+                "level": 8,
+                "name": "dodge"
+            }
+        ],
+		"traits": [
+			"TOUGH3",
+            "PROF_TENSHIARMOR"
+        ],
+        "items": {
+            "both": [
+				"stockings",
+				"bowhat_tenshi",
+				"dress_tenshi",
+				"boots",
+				"knit_scarf"
+            ],
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
+	{
+        "type": "profession",
+        "ident": "reisen_udongein_inaba",
+        "name": "Reisen Udongein Inaba",
+        "description": "You were running an errand for your master when the cataclysm struck. You have your skills as an expert gun slinger, but ammo doesn't last forever, and neither will your life...",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII",
+                "bio_laser",
+				"bio_targeting",
+                "bio_uncanny_dodge"
+            ],
+        "skills": [
+            {
+                "level": 8,
+                "name": "gun"
+            },
+            {
+                "level": 8,
+                "name": "smg"
+            },
+			{
+                "level": 8,
+                "name": "shotgun"
+            },
+			{
+                "level": 8,
+                "name": "rifle"
+            },
+			{
+                "level": 8,
+                "name": "pistol"
+            },
+			{
+                "level": 8,
+                "name": "launcher"
+            },
+            {
+                "level": 8,
+                "name": "dodge"
+            }
+        ],
+		"traits": [
+			"TAIL_STUB",
+            "PROF_REISEN"
+        ],
+        "items": {
+            "both": [
+				"stockings",
+				"suit_reisen",
+				"tie_reisen",
+				"dress_shirt",
+				"sneakers",
+				"skirt",
+				"rucksack",
+				"rm99_pistol",
+				"8mm_caseless",
+				"holster",
+				"rm11b_sniper_rifle",
+				"8mm_caseless",
+				"XL_holster",
+				"knit_scarf"
+            ],
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
+	{
+        "type": "profession",
+        "ident": "seiga_kaku",
+        "name": "Seiga Kaku",
+        "description": "You're a wicked hermit with a zombie as your personal servant and the ability to pass through walls. You never really cared about anyone else, only seeing fit to manipulate them for your own ends.",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII",
+                "bio_probability_travel",
+                "bio_uncanny_dodge"
+            ],
+        "skills": [
+            {
+                "level": 8,
+                "name": "survival"
+            },
+			{
+                "level": 8,
+                "name": "magic"
+            },
+            {
+                "level": 8,
+                "name": "firstaid"
+            },
+            {
+                "level": 8,
+                "name": "dodge"
+            }
+        ],
+		"traits": [
+            "PSYCHOPATH"
+        ],
+        "items": {
+            "both": [
+				"stockings",
+				"dress_seiga",
+				"hairstick_seiga",
+				"sneakers",
+				"minion_dormant",
+				"pockknife",
+				"knit_scarf"
+            ],
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
+	
+	{
+        "type": "profession",
+        "ident": "youmou_konpaku",
+        "name": "Youmou Konpaku",
+        "description": "You were the faithful half-human, half-phantom servant of Yuyuko Saigyouji until the cataclysm struck, separating both of you. You stand alone against the coming darkness, but at least you have your skills as an expert swordswoman!",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII",
+                "bio_time_freeze",
+                "bio_uncanny_dodge"
+            ],
+        "skills": [
+            {
+                "level": 10,
+                "name": "cutting"
+            },
+            {
+                "level": 10,
+                "name": "melee"
+            },
+            {
+                "level": 10,
+                "name": "dodge"
+            }
+        ],
+		"traits": [
+            "PROF_YOMOU",
+			"YOMOU_PHANTOM"
+        ],
+        "items": {
+            "both": [
+                "katana",
+                "scabbard",
+				"scabbard",
+				"stockings",
+				"dress_youmou",
+				"ribbon_youmou",
+				"sneakers",
+				"knit_scarf",
+                "wakizashi"
+            ],
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "type": "scenario",
+    "ident": "touhou_everything",
+    "name": "Touhou All in One",
+    "points" : 0,
+    "description": "No limits on where to start. All Touhou professions.",
+    "allowed_locs": ["fema_entrance_s","fema_s", "mansion_entrance_s","mansion_s","shelter", "boarded_house", "field", "house", "s_grocery", "s_gun", "s_garage", "pawn", "bank", "mil_surplus", "furniture", "s_library", "s_bookstore", "cabin", "hospital", "lmoe", "forest", "lab_stairs", "lab_finale", "ice_lab_stairs",
+	"ice_lab_finale", "mall_a_12", "mall_a_30", "fire_station", "police", "school", "mine_finale", "prison", "strange_grove", "island_temple", "impact_site", "curious_structure"],
+      "professions" : ["reisen_udongein_inaba", "seiga_kaku", "youmou_konpaku"],
+	  "start_name" : "Anywhere"
+  }
+]
