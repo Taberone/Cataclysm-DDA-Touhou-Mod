@@ -2,8 +2,8 @@
   {
     "id" : "back_holster_reisen",
     "type" : "ARMOR",
-    "name" : "back holster",
-    "description" : "A customized holster big enough any large gun, designed to be strapped to the back, made by Kappa Industries. Activate to holster/draw a gun with a volume no bigger than 20.",
+    "name" : "universal back holster",
+    "description" : "A customized holster big enough any large gun, designed to be strapped to the back. Activate to holster/draw a gun.",
     "weight" : 240,
     "volume" : 5,
     "price" : 10000,
@@ -19,13 +19,13 @@
       "max_volume": 20,
       "skills": ["pistol", "smg", "shotgun", "rifle", "launcher"]
     },
-    "flags" : ["BELTED", "OVERSIZE",]
+    "flags" : ["BELTED", "OVERSIZE"]
   },
   {
-    "id" : "holster",
+    "id" : "holster_reisen",
     "type" : "ARMOR",
-    "name" : "holster_reisen",
-    "description" : "A customized holster worn on the hip for holding any small gun, made by Kappa Industries.  Activate to holster/draw a gun with a volume no bigger than 10.",
+    "name" : "universal holster",
+    "description" : "A customized holster worn on the hip for holding any small gun. Activate to holster/draw a gun.",
     "weight" : 220,
     "volume" : 2,
     "price" : 9000,

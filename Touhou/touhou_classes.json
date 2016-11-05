@@ -33,6 +33,7 @@
 				"bowhat_tenshi",
 				"dress_tenshi",
 				"boots",
+				"jian_tenshi",
 				"knit_scarf"
             ],
             "male": [
@@ -55,12 +56,13 @@
                 "bio_torsionratchet",
                 "bio_power_storage_mkII",
                 "bio_laser",
+				"bio_ups",
 				"bio_targeting",
                 "bio_uncanny_dodge"
             ],
         "skills": [
             {
-                "level": 8,
+                "level": 10,
                 "name": "gun"
             },
             {
@@ -72,11 +74,11 @@
                 "name": "shotgun"
             },
 			{
-                "level": 8,
+                "level": 10,
                 "name": "rifle"
             },
 			{
-                "level": 8,
+                "level": 10,
                 "name": "pistol"
             },
 			{
@@ -102,9 +104,9 @@
 				"skirt",
 				"rucksack",
 				"lunatic_pistol",
-				"holster",
+				"holster_reisen",
 				"lunatic_rifle",
-				"shoulder_strap",
+				"back_holster_reisen",
 				"knit_scarf"
             ],
             "male": [
