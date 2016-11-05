@@ -15,12 +15,13 @@
     "range": 30,
     "ranged_damage": 10,
     "pierce": 15,
-    "dispersion": 180,
+    "dispersion": 20,
     "durability": 8,
+	"burst": 3,
     "ups_charges": 20,
-    "reload": 200,
+    "reload": 0,
     "valid_mod_locations": [ [ "accessories", 2 ], [ "grip", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
-    "ammo_effects": [ "LASER", "INCENDIARY" ],
+    "ammo_effects": [ "LASER"],
     "flags": [ "NEVER_JAMS", "NO_UNLOAD" ]
   },
    {
@@ -46,7 +47,7 @@
     "ups_charges": 40,
     "reload": 0,
     "valid_mod_locations": [ [ "accessories", 4 ], [ "grip", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
-    "ammo_effects": [ "LASER", "INCENDIARY" ],
+    "ammo_effects": [ "LASER"],
     "flags": [ "NEVER_JAMS", "NO_UNLOAD" ]
   }
 ]

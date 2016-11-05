@@ -3,11 +3,23 @@ DONE SO FAR:
 ---------
 Youmou Konpaku (Custom dress/accessory)
 
+Bunny Guns for Reisen instead of Rivtech
+
 Seiga (Custom dress/accessory)
 
-Reisen (Somewhat)
+---------
+ALMOST DONE:
+---------
+Reisen (Somewhat, Lunatic Pistol/Rifle done so far but custom holsters WIP)
 
-Tenshi (Somewhat)
+Tenshi (Somewhat, Sword of Hisou implemented but isn't "expandable")
+
+---------
+CAN DO (Eventually):
+
+Sakuya profession (Knives and time manipulation)
+
+Better finger gun for Reisen? (She has finger laser CBM but its not enough)
 
 ---------
 DON'T KNOW HOW/UNSURE HOW TO:
@@ -19,25 +31,10 @@ Acceptable stats for any clothing or weaponry added by this mod (Lots of copy/pa
 "Balancing"/"Fun" (Some professions might feel too identical)
 
 ---------
-MIGHT DO:
----------
-
----------
-CAN DO (Eventually):
----------
-Tenshi (Nigh-unkillable Celestial)
-
-Sakuya profession (Knives and time manipulation)
-
-Custom holsters for Reisen
-Bunny Guns for Reisen instead of Rivtech?
-Better finger gun for Reisen? (She has finger laser CBM)
-
----------
 UNSORTED:
 ---------
 
-Rei'sen/Reisen II (Weaker Reisen)
+Rei'sen/Reisen II (Weaker Reisen, starts with a bolt action?)
 
 Yuyuko profession
 
