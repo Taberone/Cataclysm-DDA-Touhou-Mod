@@ -3,7 +3,7 @@
         "id" : "PROF_TENSHIARMOR",
         "name" : "Celestial",
         "points" : 0,
-        "description" : "Your skin is extraordinarily tough. Cutting and bashing damage is reduced by five, and wet penalties are reduced.",
+        "description" : "Your skin is extraordinarily tough. Cutting and bashing damage are reduced by eighteen, and wet penalties are reduced.",
         "starting_trait" : false,
         "cancels" : ["THINSKIN"],
         "wet_protection" : [
@@ -13,7 +13,7 @@
             { "part" : "ARM_R", "neutral" : 4 },
             { "part" : "TORSO", "neutral" : 4 }
         ],
-        "armor" : [ { "parts" : "ALL", "cut" : 5, "bash" : 5 } ],
+        "armor" : [ { "parts" : "ALL", "cut" : 18, "bash" : 18 } ],
 		"purifiable": false,
         "profession": true
     },
@@ -23,7 +23,7 @@
         "name" : "Phantom Half",
         "points" : 0,
 		"visibility": 10,
-        "ugliness" : -1,
+        "ugliness" : 0,
         "description" : "You have a phantom half following you around. It doesn't do much, but some might find it cute.",
 		"valid": false,
 		"purifiable": false,
@@ -40,12 +40,24 @@
         "profession": true
     },{
         "type" : "mutation",
+        "id" : "PROF_REISENTAIL",
+        "name" : "Moon Rabbit Tail",
+        "points" : 0,
+        "visibility" : 1,
+        "ugliness" : 0,
+        "description" : "You have a short, stubby tail. All moon rabbits have them.",
+		"cancels" : ["TAIL_STUB"],
+		"purifiable": false,
+        "profession": true
+    },
+	{
+        "type" : "mutation",
         "id" : "PROF_REISEN",
         "name" : "Moon Rabbit Ears",
         "points" : 0,
 		"visibility": 10,
-        "ugliness" : -1,
-        "description" : "You have two long rabbit ears.",
+        "ugliness" : 0,
+        "description" : "You have two long rabbit ears that easily identify you as a moon rabbit.",
 		"valid": false,
 		"purifiable": false,
         "profession": true

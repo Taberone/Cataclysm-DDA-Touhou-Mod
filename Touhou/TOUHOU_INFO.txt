@@ -22,10 +22,12 @@ Close-combat killing machine.
 -Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't go through walls), Dormant Minion, starts with Psychopath trait. 
 Made for enslaving zombies.
 
--Reisen Udongein Inaba profession: Carries a Lunatic Pistol/Rifle and two custom holsters.
+-Reisen Udongein Inaba profession: Carries a Lunatic Pistol/Rifle, a new business suit, and two custom holsters.
 Bionic gunslinger.
 
 -Tenshi Hinanawi profession: Gets the Sword of Hisou (custom Jian), starts with Unbreakable and Celestial (Buffed Thick Skin).
+
+-Sakuya Izayoi: Time stopping, knife throwing maid.
 
 ---------
 ALMOST DONE:
@@ -34,7 +36,6 @@ ALMOST DONE:
 ---------
 TO DO (Eventually):
 ---------
--Sakuya profession (Knives and time manipulation)
 
 -Better finger gun for Reisen? (She has finger laser CBM but its not enough)
 

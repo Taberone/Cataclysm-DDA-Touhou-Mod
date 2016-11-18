@@ -10,7 +10,7 @@
     "description": "A golden, shape-shifting jian that is spiritually summoned into battle, allowing it to be stored without taking up a significant amount of space or weighing the user down.",
     "price": 160000,
     "material": "gold",
-    "flags" : ["DURABLE_MELEE", "SHEATH_SWORD"],
+    "flags" : ["DURABLE_MELEE", "SHEATH_SWORD", "TRADER_AVOID"],
     "techniques": ["WBLOCK_1"],
     "weight": 0,
     "volume": 0,

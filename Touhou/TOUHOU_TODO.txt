@@ -5,9 +5,11 @@ Youmou Konpaku (Custom dress/accessory)
 
 Seiga (Custom dress/accessory)
 
-Reisen (Somewhat)
+Reisen (Custom business suit, holsters, bionics, guns)
 
-Tenshi (Somewhat)
+Tenshi (Custom mutation, dress, sword)
+
+Sakuya (Nothing custom added, vanilla content so far)
 
 ---------
 DON'T KNOW HOW/UNSURE HOW TO:
@@ -18,6 +20,8 @@ Acceptable stats for any clothing or weaponry added by this mod (Lots of copy/pa
 
 "Balancing"/"Fun" (Some professions might feel too identical)
 
+Burst-fire Finger Laser CBM for Reisen (Can only fire in semi-auto even with BURST_ONLY)
+
 ---------
 MIGHT DO:
 ---------
@@ -25,13 +29,8 @@ MIGHT DO:
 ---------
 CAN DO (Eventually):
 ---------
-Tenshi (Nigh-unkillable Celestial)
 
-Sakuya profession (Knives and time manipulation)
-
-Custom holsters for Reisen
-Bunny Guns for Reisen instead of Rivtech?
-Better finger gun for Reisen? (She has finger laser CBM)
+Custom Sakuya knives? Knife throwing bionic?
 
 ---------
 UNSORTED:

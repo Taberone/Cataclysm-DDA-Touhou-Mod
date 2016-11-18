@@ -1,12 +1,70 @@
 [
+	{
+        "type": "profession",
+        "ident": "sakuya_izayoi",
+        "name": "Sakuya Izayoi",
+        "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is amongst the billions lost in the cataclysm. Survival is all that matters now, but how long can you last as a time-stopping, knife throwing maid?",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+				"bio_time_freeze",
+                "bio_power_storage_mkII",
+				"bio_uncanny_dodge"
+            ],
+        "skills": [
+            {
+                "level": 8,
+                "name": "cutting"
+            },
+			{
+                "level": 10,
+                "name": "throw"
+            },
+            {
+                "level": 8,
+                "name": "melee"
+            },
+            {
+                "level": 10,
+                "name": "dodge"
+            }
+        ],
+        "items": {
+            "both": [
+				"maid_dress",
+				"maid_hat",
+				"runner_bag",
+				"knife_combat",
+				"sheath",
+				"throwing_knife",
+				"throwing_knife",
+				"throwing_knife",
+				"throwing_knife",
+				"throwing_knife",
+				"throwing_knife",
+				"stockings",
+				"sneakers",
+				"knit_scarf"
+            ],
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
     {
         "type": "profession",
         "ident": "tenshi_hinanawi",
         "name": "Tenshi Hinanawi",
-        "description": "The carefree lifestyle that came with being a celestial sure was boring until the cataclysm struck. Now the world has irrevocably changed and you're stuck fighting for your life. Isn't that a nice change of pace for once?",
+        "description": "The carefree lifestyle that came with being a celestial sure was boring until the cataclysm struck. Now the world has irrevocably changed and you're stuck fighting for the rest your life. Isn't that a nice change of pace for once?",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
+				"bio_uncanny_dodge",
                 "bio_power_storage_mkII"
             ],
         "skills": [
@@ -55,7 +113,7 @@
 		"CBMs":[
                 "bio_torsionratchet",
                 "bio_power_storage_mkII",
-                "bio_laser",
+                "bio_reisen",
 				"bio_ups",
 				"bio_targeting",
                 "bio_uncanny_dodge"
@@ -91,7 +149,7 @@
             }
         ],
 		"traits": [
-			"TAIL_STUB",
+			"PROF_REISENTAIL",
             "PROF_REISEN"
         ],
         "items": {
@@ -123,7 +181,7 @@
         "type": "profession",
         "ident": "seiga_kaku",
         "name": "Seiga Kaku",
-        "description": "You're a wicked hermit with a zombie as your personal servant and the ability to pass through walls. You never really cared about anyone else, only seeing fit to manipulate them for your own ends.",
+        "description": "You're a wicked hermit with a zombie as your personal servant and the ability to pass through walls. You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the cataclysm should be... Interesting.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",

@@ -22,7 +22,7 @@
     "reload": 0,
     "valid_mod_locations": [ [ "accessories", 2 ], [ "grip", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
     "ammo_effects": [ "LASER"],
-    "flags": [ "NEVER_JAMS", "NO_UNLOAD" ]
+    "flags": [ "NEVER_JAMS", "NO_UNLOAD", "TRADER_AVOID" ]
   },
    {
     "id": "lunatic_rifle",
@@ -48,6 +48,6 @@
     "reload": 0,
     "valid_mod_locations": [ [ "accessories", 4 ], [ "grip", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
     "ammo_effects": [ "LASER"],
-    "flags": [ "NEVER_JAMS", "NO_UNLOAD" ]
+    "flags": [ "NEVER_JAMS", "NO_UNLOAD", "TRADER_AVOID" ]
   }
 ]
