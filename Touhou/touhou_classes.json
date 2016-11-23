@@ -108,7 +108,7 @@
         "type": "profession",
         "ident": "reisen_udongein_inaba",
         "name": "Reisen Udongein Inaba",
-        "description": "You were running an errand for your master when the cataclysm struck. You have your skills as an expert gun slinger, but ammo doesn't last forever, and neither will your life...",
+        "description": "You were running an errand for your master when the cataclysm struck. You have your skills as an expert gun slinger, but will that be enough to get you out of this alive?",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -163,8 +163,6 @@
 				"rucksack",
 				"lunatic_pistol",
 				"holster_reisen",
-				"lunatic_rifle",
-				"back_holster_reisen",
 				"knit_scarf"
             ],
             "male": [

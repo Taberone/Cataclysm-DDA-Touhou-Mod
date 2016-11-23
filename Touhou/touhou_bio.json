@@ -11,12 +11,12 @@
     "color": "magenta",
     "skill": "pistol",
     "range": 30,
-    "ranged_damage": 10,
+    "ranged_damage": 22,
     "pierce": 15,
     "dispersion": 10,
     "durability": 10,
 	"burst": 5,
-    "reload": 500,
+    "reload": 0,
     "ammo_effects": [ "LASER" ],
     "flags": [  "BURST_ONLY", "NEVER_JAMS", "TRADER_AVOID" ]
   }

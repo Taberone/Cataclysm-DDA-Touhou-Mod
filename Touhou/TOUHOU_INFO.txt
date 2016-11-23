@@ -22,7 +22,7 @@ Close-combat killing machine.
 -Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't go through walls), Dormant Minion, starts with Psychopath trait. 
 Made for enslaving zombies.
 
--Reisen Udongein Inaba profession: Carries a Lunatic Pistol/Rifle, a new business suit, and two custom holsters.
+-Reisen Udongein Inaba profession: Carries a Lunatic Pistol, a new business suit, and a custom holster.
 Bionic gunslinger.
 
 -Tenshi Hinanawi profession: Gets the Sword of Hisou (custom Jian), starts with Unbreakable and Celestial (Buffed Thick Skin).
