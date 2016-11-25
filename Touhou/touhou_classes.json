@@ -1,9 +1,72 @@
 [
 	{
         "type": "profession",
+        "ident": "reisen_II",
+        "name": "Rei'sen",
+        "description": "You were accompanying the Watatsuki sisters on their visit to Earth when the cataclysm struck! In the chaos and panic of evacuation, everyone was forced to split up. You've got some skills from your Lunar Defense Corps training, but you'll need more than that to survive...",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII",
+				"bio_laser",
+				"bio_ups",
+				"bio_teleport",
+                "bio_uncanny_dodge"
+            ],
+        "skills": [
+            {
+                "level": 5,
+                "name": "cutting"
+            },
+			{
+                "level": 5,
+                "name": "melee"
+            },
+			{
+                "level": 5,
+                "name": "gun"
+            },
+			{
+                "level": 5,
+                "name": "rifle"
+            },
+            {
+                "level": 5,
+                "name": "dodge"
+            }
+        ],
+		"traits": [
+			"PROF_REISENTAIL",
+            "PROF_REISEN"
+        ],
+        "items": {
+            "both": [
+				"stockings",
+				"suit_reisen",
+				"tie_reisen",
+				"dress_shirt",
+				"sneakers",
+				"skirt",
+				"leather_pouch",
+				"lunar_rifle",
+				"shoulder_strap",
+				"knit_scarf"
+            ],
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
+	{
+        "type": "profession",
         "ident": "sakuya_izayoi",
         "name": "Sakuya Izayoi",
-        "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is amongst the billions lost in the cataclysm. Survival is all that matters now, but how long can you last as a time-stopping, knife throwing maid?",
+        "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is presumably amongst the billions lost in the cataclysm. Survival is all that matters now, but how long can you last as a time-stopping, knife throwing maid?",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",

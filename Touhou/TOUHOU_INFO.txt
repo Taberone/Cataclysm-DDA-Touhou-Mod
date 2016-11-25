@@ -16,84 +16,14 @@ FEATURES
 
 -Less limits on starting locations! Start in a FEMA camp, bottom of a mine, mall, etc.
 
--Youmou Konpaku profession: Custom dress, starts with two swords, Swordswoman (Prof trait giving Niten), Phantom Half (Prof trait), starts with Niten. 
-Close-combat killing machine.
+-Youmou Konpaku profession: Custom dress, starts with two swords, Swordswoman (Prof trait giving Niten), Phantom Half (Prof trait). Close-combat killing machine.
 
--Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't go through walls), Dormant Minion, starts with Psychopath trait. 
-Made for enslaving zombies.
+-Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't let her cut through walls yet, she gets Probability Travel for now), Dormant Minion, starts with Psychopath trait. Made for enslaving zombies.
 
--Reisen Udongein Inaba profession: Carries a Lunatic Pistol, a new business suit, and a custom holster.
-Bionic gunslinger.
+-Reisen Udongein Inaba profession: Carries a Lunatic Gun, a new business suit, a custom finger gun CBM, and a custom holster. Bionic gunslinger/aimbot.
 
 -Tenshi Hinanawi profession: Gets the Sword of Hisou (custom Jian), starts with Unbreakable and Celestial (Buffed Thick Skin).
 
 -Sakuya Izayoi: Time stopping, knife throwing maid.
 
----------
-ALMOST DONE:
----------
-
----------
-TO DO (Eventually):
----------
-
--Better finger gun for Reisen? (She has finger laser CBM but its not enough)
-
----------
-DON'T KNOW HOW/UNSURE HOW TO:
----------
--Reisen's eye effect (No idea)
-
--Acceptable stats for anything added by this mod (Lots of copy/pastes with some stuff changed but it's still almost-identical)
-
--"Balancing"/"Fun" (Some professions might feel too identical, etc)
-
--Seiga's hairstick cutting through walls
-
----------
-UNSORTED:
----------
-
--Rei'sen/Reisen II (Weaker Reisen, starts with a bolt action?)
-
--Yuyuko profession
-
--Mokou profession (Lots and lots of fire)
-
--Eirin profession (Master archery/first aid/other?)
-
--Alice profession (possibly)
-
--Byakuren and Meiling profession (Punch/kick everything to death)
-
--Aya profession (Really fast runner)
-
--Nitori profession (master crafter)
-
--Parsee
-
--Utsuho (Fusion blaster)
-
--Miko
-
--Kagerou
-
--Tsukumo sisters
-
--Raiko
-
--Hecatia (Tacky clothing)
-
--Iku (Beautiful Scarlet Cloth)
-
--Sumireko
-
--Kasen
-
--Renko and Maribel
-
--Kogasa (Surprise people somehow, possibly cloaking. Should also come with a blade hidden in an umbrella?)
-
--Koishi (Cloaking system?)
-
--Nue (???)
+-Rei'sen/Reisen II: Gets a Lunar Rifle w/ integrated bayonet and teleportation. Somewhat more "balanced" than the others skills-wise due to starting with 5 instead of 10.

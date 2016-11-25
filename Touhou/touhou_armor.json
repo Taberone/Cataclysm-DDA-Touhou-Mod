@@ -42,7 +42,7 @@
     "id": "suit_reisen",
     "type": "ARMOR",
     "name": "business suit",
-    "description": "A black, long-sleeved business suit that covers the torso and arms.",
+    "description": "A black, long-sleeved business suit that covers the torso and arms. Lunarian insignia is visible on it.",
     "weight": 1587,
     "volume": 19,
     "price": 20000,
@@ -73,7 +73,7 @@
     "symbol": "[",
     "color": "dark_gray",
     "flags": [ "FANCY" ]
-  },
+	},
 	{
         "id" : "ribbon_youmou",
         "type" : "TOOL_ARMOR",
