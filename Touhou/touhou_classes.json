@@ -14,10 +14,6 @@
                 "bio_uncanny_dodge"
             ],
         "skills": [
-            {
-                "level": 5,
-                "name": "cutting"
-            },
 			{
                 "level": 5,
                 "name": "melee"
