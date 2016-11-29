@@ -5,7 +5,7 @@
         "points" : 0,
         "description" : "Your skin is extraordinarily tough. Cutting and bashing damage are reduced by eighteen, and wet penalties are reduced.",
         "starting_trait" : false,
-        "cancels" : ["THINSKIN"],
+        "cancels" : ["THINSKIN", "THICKSKIN"],
         "wet_protection" : [
             { "part" : "LEG_L", "neutral" : 4 },
             { "part" : "LEG_R", "neutral" : 4 },

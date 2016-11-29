@@ -37,13 +37,13 @@
         ],
         "items": {
             "both": [
-				"stockings",
-				"suit_reisen",
-				"tie_reisen",
-				"dress_shirt",
-				"sneakers",
-				"skirt",
 				"leather_pouch",
+				"dress_shirt",
+				"tie_reisen",
+				"suit_reisen",
+				"stockings",
+				"skirt",
+				"sneakers",
 				"lunar_rifle",
 				"shoulder_strap",
 				"knit_scarf"
@@ -90,9 +90,10 @@
         ],
         "items": {
             "both": [
+				"runner_bag",
+				"stockings",
 				"maid_dress",
 				"maid_hat",
-				"runner_bag",
 				"knife_combat",
 				"sheath",
 				"throwing_knife",
@@ -101,7 +102,6 @@
 				"throwing_knife",
 				"throwing_knife",
 				"throwing_knife",
-				"stockings",
 				"sneakers",
 				"knit_scarf"
             ],
@@ -146,8 +146,8 @@
         ],
         "items": {
             "both": [
-				"stockings",
 				"bowhat_tenshi",
+				"stockings",
 				"dress_tenshi",
 				"boots",
 				"jian_tenshi",
@@ -213,13 +213,13 @@
         ],
         "items": {
             "both": [
-				"stockings",
-				"suit_reisen",
-				"tie_reisen",
-				"dress_shirt",
-				"sneakers",
-				"skirt",
 				"rucksack",
+				"dress_shirt",
+				"tie_reisen",
+				"suit_reisen",
+				"stockings",
+				"skirt",
+				"sneakers",
 				"lunatic_pistol",
 				"holster_reisen",
 				"knit_scarf"
