@@ -36,18 +36,19 @@
             "PROF_REISEN"
         ],
         "items": {
-            "both": [
-				"leather_pouch",
+            "both": {
+                "items": [
 				"dress_shirt",
 				"tie_reisen",
 				"suit_reisen",
 				"stockings",
 				"skirt",
-				"sneakers",
-				"lunar_rifle",
-				"shoulder_strap",
-				"knit_scarf"
-            ],
+				"sneakers"
+                ],
+                "entries": [
+                    { "item": "lunar_rifle", "container-item": "shoulder_strap" }
+                ]
+            },
             "male": [
                 "boxer_shorts"
             ],
@@ -89,22 +90,26 @@
             }
         ],
         "items": {
-            "both": [
-				"runner_bag",
+            "both": {
+                "items": [
+                "leather_pouch",
 				"stockings",
 				"maid_dress",
 				"maid_hat",
-				"knife_combat",
-				"sheath",
 				"throwing_knife",
 				"throwing_knife",
 				"throwing_knife",
 				"throwing_knife",
 				"throwing_knife",
 				"throwing_knife",
+				"pocketwatch",
 				"sneakers",
 				"knit_scarf"
-            ],
+                ],
+                "entries": [
+                    { "item": "knife_combat", "container-item": "sheath" }
+                ]
+            },
             "male": [
                 "boxer_shorts"
             ],
@@ -208,22 +213,24 @@
             }
         ],
 		"traits": [
-			"PROF_REISENTAIL",
+            "PROF_REISENTAIL",
             "PROF_REISEN"
         ],
         "items": {
-            "both": [
-				"rucksack",
+            "both": {
+                "items": [
 				"dress_shirt",
 				"tie_reisen",
 				"suit_reisen",
 				"stockings",
 				"skirt",
 				"sneakers",
-				"lunatic_pistol",
-				"holster_reisen",
 				"knit_scarf"
-            ],
+                ],
+                "entries": [
+                    { "item": "lunatic_pistol", "container-item": "holster_reisen" }
+                ]
+            },
             "male": [
                 "boxer_shorts"
             ],
@@ -231,8 +238,7 @@
                 "bra",
                 "panties"
             ]
-        },
-        "flags" : ["SCEN_ONLY"]
+        }
     },
 	{
         "type": "profession",
@@ -270,6 +276,7 @@
         "items": {
             "both": [
 				"stockings",
+				"runner_bag",
 				"dress_seiga",
 				"hairstick_seiga",
 				"sneakers",
@@ -287,11 +294,10 @@
         },
         "flags" : ["SCEN_ONLY"]
     },
-	
 	{
         "type": "profession",
-        "ident": "youmou_konpaku",
-        "name": "Youmou Konpaku",
+        "ident": "youmu_konpaku",
+        "name": "Youmu Konpaku",
         "description": "You were the faithful half-human, half-phantom servant of Yuyuko Saigyouji until the cataclysm struck, separating both of you. You stand alone against the coming darkness, but at least you have your skills as an expert swordswoman!",
         "points": 0,
 		"CBMs":[
@@ -315,21 +321,22 @@
             }
         ],
 		"traits": [
-            "PROF_YOMOU",
-			"YOMOU_PHANTOM"
+            "PROF_YOUMU",
+			"YOUMU_PHANTOM"
         ],
         "items": {
-            "both": [
-                "katana",
-                "scabbard",
-				"scabbard",
-				"stockings",
+            "both": {
+                "items": [
+                "stockings",
 				"dress_youmou",
 				"ribbon_youmou",
-				"sneakers",
-				"knit_scarf",
-                "wakizashi"
-            ],
+				"sneakers"
+                ],
+                "entries": [
+                    { "item": "katana", "container-item": "scabbard" },
+					{ "item": "wakizashi", "container-item": "scabbard" }
+                ]
+            },
             "male": [
                 "boxer_shorts"
             ],
@@ -337,7 +344,6 @@
                 "bra",
                 "panties"
             ]
-        },
-        "flags" : ["SCEN_ONLY"]
+        }
     }
 ]

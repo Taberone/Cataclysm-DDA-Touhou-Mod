@@ -19,7 +19,7 @@
     },
 	{
         "type" : "mutation",
-        "id" : "YOMOU_PHANTOM",
+        "id" : "YOUMU_PHANTOM",
         "name" : "Phantom Half",
         "points" : 0,
 		"visibility": 10,
@@ -30,7 +30,7 @@
         "profession": true
     },{
         "type" : "mutation",
-        "id" : "PROF_YOMOU",
+        "id" : "PROF_YOUMU",
         "name" : "Swordswoman",
         "points" : 0,
         "description" : "You are experienced in the usage of swords.",
