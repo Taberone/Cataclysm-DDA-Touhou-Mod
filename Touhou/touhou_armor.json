@@ -23,7 +23,7 @@
     "type": "ARMOR",
     "name": "celestial dress",
     "name_plural": "celestial dress",
-    "description": "A blue dress with a cloud pattern on the skirt and a white apron. The apron has a rainbow-patterned shard link on it.",
+    "description": "A blue dress with a cloud pattern on the skirt and a white apron. The apron has a rainbow-patterned shard link on it, and a small pocket for holding items.",
     "weight": 680,
     "volume": 14,
     "price": 18000,
@@ -34,6 +34,7 @@
     "covers": [ "LEGS", "TORSO" ],
     "coverage": 85,
     "encumbrance": 7,
+	"storage": 1,
     "warmth": 15,
     "material_thickness": 2,
     "flags": [ "VARSIZE", "FANCY" ]

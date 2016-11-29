@@ -22,8 +22,6 @@ Acceptable stats for any clothing or weaponry added by this mod (Lots of copy/pa
 
 "Balancing"/"Fun" (Some professions might feel too identical or just not fun to play, etc)
 
-Burst-fire Finger Laser CBM for Reisen (Can only fire in semi-auto even with BURST_ONLY)
-
 Seiga's hairstick cutting through walls
 
 ---------
