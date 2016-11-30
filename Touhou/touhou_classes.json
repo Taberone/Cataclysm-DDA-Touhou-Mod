@@ -43,10 +43,13 @@
 				"suit_reisen",
 				"stockings",
 				"skirt",
+				"lunar_rifle",
+				"shoulder_strap",
+				"knit_scarf",
 				"sneakers"
                 ],
                 "entries": [
-                    { "item": "lunar_rifle", "container-item": "shoulder_strap" }
+                    { "item": "lunar_rifle", "contents-item": "shoulder_strap" }
                 ]
             },
             "male": [
