@@ -146,5 +146,21 @@
     "warmth": 15,
     "material_thickness": 2,
     "flags": [ "VARSIZE", "FANCY" ]
+	},
+	{
+    "id": "cheater_hammerspace",
+    "type": "ARMOR",
+    "name": "hammerspace bag",
+    "name_plural": "hammerspace bags",
+    "description": "A bag that can hold a truly ludicrous amount of items. Warning: Does not provide the user with enough strength to carry it all.",
+    "weight": 0,
+    "volume": 0,
+    "price": 0,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "color": "dark_gray",
+    "storage": 999,
+    "material_thickness": 99,
+	"flags": [ "TRADER_AVOID" ]
 	}
     ]
