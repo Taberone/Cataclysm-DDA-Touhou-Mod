@@ -24,6 +24,8 @@ Acceptable stats for any clothing or weaponry added by this mod (Lots of copy/pa
 
 Seiga's hairstick cutting through walls
 
+Stop friendly zombies from attacking (Seiga's own zombies try to kill her)
+
 ---------
 MIGHT DO:
 ---------

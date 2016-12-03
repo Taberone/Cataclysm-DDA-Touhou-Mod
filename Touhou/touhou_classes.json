@@ -150,6 +150,7 @@
         ],
 		"traits": [
 			"TOUGH3",
+			"PAINRESIST",
             "PROF_TENSHIARMOR"
         ],
         "items": {

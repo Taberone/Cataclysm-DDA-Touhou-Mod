@@ -5,7 +5,7 @@
         "points" : 0,
         "description" : "Your skin is extraordinarily tough. Cutting and bashing damage are reduced by eighteen, and wet penalties are reduced.",
         "starting_trait" : false,
-        "cancels" : ["THINSKIN", "THICKSKIN"],
+        "cancels" : ["THINSKIN", "THICKSKIN", "TOUGH"],
         "wet_protection" : [
             { "part" : "LEG_L", "neutral" : 4 },
             { "part" : "LEG_R", "neutral" : 4 },
@@ -13,7 +13,7 @@
             { "part" : "ARM_R", "neutral" : 4 },
             { "part" : "TORSO", "neutral" : 4 }
         ],
-        "armor" : [ { "parts" : "ALL", "cut" : 18, "bash" : 18 } ],
+        "armor" : [ { "parts" : "ALL", "cut" : 20, "bash" : 20 } ],
 		"purifiable": false,
         "profession": true
     },
@@ -45,7 +45,7 @@
         "points" : 0,
         "visibility" : 1,
         "ugliness" : 0,
-        "description" : "You have a short, stubby tail. All moon rabbits have them.",
+        "description" : "Like the rest of the moon rabbits, you have a short, stubby tail.",
 		"cancels" : ["TAIL_STUB"],
 		"purifiable": false,
         "profession": true
