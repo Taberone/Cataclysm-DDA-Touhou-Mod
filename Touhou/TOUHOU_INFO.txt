@@ -27,3 +27,5 @@ FEATURES
 -Sakuya Izayoi: Time stopping, knife throwing maid.
 
 -Rei'sen/Reisen II: Gets a Lunar Rifle w/ integrated bayonet and teleportation. Somewhat more "balanced" than the others skills-wise due to starting with 5 instead of 10.
+
+-Iku Nagae: Has a weaponized scarf, starts with electricity-based bionics and a Shockwave CBM, and has the Beautiful mutation

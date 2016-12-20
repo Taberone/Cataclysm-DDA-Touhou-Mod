@@ -7,11 +7,13 @@ Seiga (Custom dress/accessory)
 
 Reisen (Custom business suit, holsters, bionics, guns)
 
-Tenshi (Custom mutation, dress, sword)
+Tenshi (Custom mutation, dress, hat, sword)
 
 Sakuya (Nothing custom added, vanilla content so far)
 
 Rei'sen/Reisen II (Reisen's business suit, Lunar Rifle)
+
+Iku (Custom shirt, skirt, weaponized scarf, hat)
 
 ---------
 DON'T KNOW HOW/UNSURE HOW TO:
@@ -24,8 +26,6 @@ Acceptable stats for any clothing or weaponry added by this mod (Lots of copy/pa
 
 Seiga's hairstick cutting through walls
 
-Stop friendly zombies from attacking (Seiga's own zombies try to kill her)
-
 ---------
 MIGHT DO:
 ---------
@@ -33,6 +33,8 @@ MIGHT DO:
 Youmou gets her named weapons instead of the generic vanilla swords and either Niten is modded to include them too, or a new martial arts style that's Niten on steroids is added that includes them
 
 Custom Sakuya knives? Knife throwing bionic?
+
+Tenshi's sword works like the Expandable Baton (Can be expanded/collapsed to affect volume)
 
 Tsukumo sisters
 
@@ -57,8 +59,6 @@ Kagerou
 Raiko
 
 Hecatia (Tacky clothing)
-
-Iku (Beautiful Scarlet Cloth)
 
 ---------
 CAN DO (Eventually):

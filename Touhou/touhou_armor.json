@@ -1,4 +1,42 @@
-[	{
+[	
+	{
+    "id": "dress_shirt_iku",
+    "type": "ARMOR",
+    "name": "dress shirt",
+    "description": "A white and red shirt with frills and long sleeves.  Looks fancy!",
+    "weight": 250,
+    "volume": 3,
+    "price": 1500,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "color": "white",
+    "covers": [ "TORSO", "ARMS" ],
+    "coverage": 90,
+    "encumbrance": 5,
+    "storage": 1,
+    "warmth": 15,
+    "material_thickness": 1,
+    "flags": [ "VARSIZE", "FANCY" ]
+	},
+	{
+    "id": "skirt_iku",
+    "type": "ARMOR",
+    "name": "long skirt",
+    "description": "A long black skirt.",
+    "weight": 74,
+    "volume": 1,
+    "price": 6500,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "color": "dark_gray",
+    "covers": [ "LEGS" ],
+    "coverage": 90,
+    "storage": 1,
+    "warmth": 15,
+    "material_thickness": 1,
+    "flags": [ "VARSIZE" ]
+	},
+	{
     "id": "fedora_iku",
     "type": "ARMOR",
     "name": "oarfish fedora",
@@ -13,7 +51,7 @@
     "covers": [ "HEAD" ],
     "coverage": 50,
     "encumbrance": 15,
-    "warmth": 5,
+    "warmth": 7,
     "material_thickness": 2,
     "environmental_protection": 1,
     "flags": [ "FANCY", "VARSIZE" ]
@@ -96,7 +134,7 @@
     "flags": [ "FANCY" ]
 	},
 	{
-        "id" : "ribbon_youmou",
+        "id" : "ribbon_youmu",
         "type" : "TOOL_ARMOR",
         "category" : "clothing",
         "symbol" : "[",
@@ -148,7 +186,7 @@
     "flags": [ "VARSIZE", "FANCY" ]
 	},
 	{
-    "id": "dress_youmou",
+    "id": "dress_youmu",
     "type": "ARMOR",
     "name": "dark green/white dress",
     "name_plural": "dark green/white dresses",

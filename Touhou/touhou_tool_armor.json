@@ -1,0 +1,61 @@
+[
+	{
+        "id": "long_iku_scarf",
+        "type": "TOOL_ARMOR",
+        "category" : "clothing",
+        "symbol": "[",
+        "color": "dark_gray",
+        "name": "long frilly scarf",
+        "name_plural" : "long frilly scarves",
+        "description": "A really long, frilly scarf, worn over the mouth for warmth.  It's long enough to handle nonstandard facial features, accommodate your hands, and whip people to death.  Use it to loosen it if you get too warm.",
+        "price": 3000,
+        "material": ["cotton"],
+        "weight": 192,
+        "volume": 5,
+		"cutting": 10,
+        "to_hit" : 2,
+        "use_action": {
+            "type": "transform",
+            "msg": "You loosen your %s.",
+            "target": "long_iku_scarf_loose",
+            "menu_text": "Loosen"
+        },
+        "covers" : ["MOUTH"],
+        "flags" : ["REACH_ATTACK", "REACH3", "WHIP", "OVERSIZE", "POCKETS", "OUTER"],
+        "warmth" : 30,
+        "environmental_protection" : 2,
+        "encumbrance" : 3,
+        "coverage" : 85,
+        "material_thickness" : 2
+    },
+    {
+        "id": "long_iku_scarf_loose",
+        "type": "TOOL_ARMOR",
+        "category" : "clothing",
+        "symbol": "[",
+        "color": "dark_gray",
+        "name": "long frilly scarf (loose)",
+        "name_plural" : "long frilly scarves (loose)",
+        "description": "A really long, frilly scarf, worn over the mouth for warmth.  It's long enough to handle nonstandard facial features, accommodate your hands, and whip people to death.  Use it to wear it tighter if you get too warm.",
+        "price": 3000,
+        "material": ["cotton"],
+        "weight": 192,
+        "volume": 5,
+		"cutting": 10,
+        "to_hit" : 2,
+        "use_action": {
+            "type": "transform",
+            "msg": "You wrap your scarf tighter.",
+            "target": "long_iku_scarf",
+            "menu_text": "Wrap tighter"
+        },
+        "revert_to": "long_iku_scarf",
+        "covers" : ["MOUTH"],
+        "flags" : ["REACH_ATTACK", "REACH3", "WHIP", "OVERSIZE", "POCKETS", "OUTER", "ALLOWS_NATURAL_ATTACKS"],
+        "warmth" : 15,
+        "environmental_protection" : 1,
+        "encumbrance" : 2,
+        "coverage" : 45,
+        "material_thickness" : 2
+    }
+]

@@ -3,7 +3,7 @@
         "type": "profession",
         "ident": "iku_nagae",
         "name": "Iku Nagae",
-        "description": "You were known as the Beautiful Scarlet Cloth and a messenger of the Dragon Palace. All your efforts to warn the world about the coming cataclysm were for naught! Nobody ever listened, and now everybody is dead... Except for you, however.",
+        "description": "You were known as the Beautiful Scarlet Cloth and a messenger of the Dragon Palace. All your efforts to warn the world about the coming cataclysm were for naught! You've got a weaponized scarf and electricity powers to make survival in this post-cataclysm world easier.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -12,6 +12,7 @@
 				"bio_railgun",
 				"bio_faraday",
 				"bio_shock",
+				"bio_shockwave",
                 "bio_uncanny_dodge"
             ],
         "skills": [
@@ -20,11 +21,15 @@
                 "name": "melee"
             },
 			{
-                "level": 8,
+                "level": 5,
+                "name": "cutting"
+            },
+			{
+                "level": 5,
                 "name": "unarmed"
             },
 			{
-                "level": 8,
+                "level": 5,
                 "name": "throw"
             },
             {
@@ -38,14 +43,13 @@
         "items": {
             "both": {
                 "items": [
-				"dress_shirt",
-				"tie_reisen",
-				"suit_reisen",
+				"dress_shirt_iku",
 				"stockings",
-				"skirt",
-				"knit_scarf",
+				"skirt_iku",
+				"long_iku_scarf",
+				"fedora_iku",
 				"sneakers"
-                ],
+                ]
             },
             "male": [
                 "boxer_shorts"
@@ -388,9 +392,9 @@
             "both": {
                 "items": [
                 "stockings",
-				"dress_youmou",
+				"dress_youmu",
 				"knit_scarf",
-				"ribbon_youmou",
+				"ribbon_youmu",
 				"sneakers"
                 ],
                 "entries": [
