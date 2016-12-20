@@ -1,6 +1,64 @@
 [
 	{
         "type": "profession",
+        "ident": "iku_nagae",
+        "name": "Iku Nagae",
+        "description": "You were known as the Beautiful Scarlet Cloth and a messenger of the Dragon Palace. All your efforts to warn the world about the coming cataclysm were for naught! Nobody ever listened, and now everybody is dead... Except for you, however.",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII",
+				"bio_chain_lightning",
+				"bio_railgun",
+				"bio_faraday",
+				"bio_shock",
+                "bio_uncanny_dodge"
+            ],
+        "skills": [
+			{
+                "level": 8,
+                "name": "melee"
+            },
+			{
+                "level": 8,
+                "name": "unarmed"
+            },
+			{
+                "level": 8,
+                "name": "throw"
+            },
+            {
+                "level": 8,
+                "name": "dodge"
+            }
+        ],
+		"traits": [
+            "BEAUTIFUL"
+        ],
+        "items": {
+            "both": {
+                "items": [
+				"dress_shirt",
+				"tie_reisen",
+				"suit_reisen",
+				"stockings",
+				"skirt",
+				"knit_scarf",
+				"sneakers"
+                ],
+            },
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
+	{
+        "type": "profession",
         "ident": "reisen_II",
         "name": "Rei'sen",
         "description": "You were accompanying the Watatsuki sisters on their visit to Earth when the cataclysm struck! In the chaos and panic of evacuation, everyone was forced to split up. You've got some skills from your Lunar Defense Corps training, but you'll need more than that to survive...",
