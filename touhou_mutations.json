@@ -1,0 +1,65 @@
+[{
+        "type" : "mutation",
+        "id" : "PROF_TENSHIARMOR",
+        "name" : "Celestial",
+        "points" : 0,
+        "description" : "Your skin is extraordinarily tough. Cutting and bashing damage are reduced by eighteen, and wet penalties are reduced.",
+        "starting_trait" : false,
+        "cancels" : ["THINSKIN", "THICKSKIN", "TOUGH"],
+        "wet_protection" : [
+            { "part" : "LEG_L", "neutral" : 4 },
+            { "part" : "LEG_R", "neutral" : 4 },
+            { "part" : "ARM_L", "neutral" : 4 },
+            { "part" : "ARM_R", "neutral" : 4 },
+            { "part" : "TORSO", "neutral" : 4 }
+        ],
+        "armor" : [ { "parts" : "ALL", "cut" : 20, "bash" : 20 } ],
+		"purifiable": false,
+        "profession": true
+    },
+	{
+        "type" : "mutation",
+        "id" : "YOUMU_PHANTOM",
+        "name" : "Phantom Half",
+        "points" : 0,
+		"visibility": 10,
+        "ugliness" : 0,
+        "description" : "You have a phantom half following you around. It doesn't do much, but some might find it cute.",
+		"valid": false,
+		"purifiable": false,
+        "profession": true
+    },{
+        "type" : "mutation",
+        "id" : "PROF_YOUMU",
+        "name" : "Swordswoman",
+        "points" : 0,
+        "description" : "You are experienced in the usage of swords.",
+        "valid": false,
+        "initial_ma_styles" : [ "style_niten" ],
+        "purifiable": false,
+        "profession": true
+    },{
+        "type" : "mutation",
+        "id" : "PROF_REISENTAIL",
+        "name" : "Moon Rabbit Tail",
+        "points" : 0,
+        "visibility" : 1,
+        "ugliness" : 0,
+        "description" : "Like the rest of the moon rabbits, you have a short, stubby tail.",
+		"cancels" : ["TAIL_STUB"],
+		"purifiable": false,
+        "profession": true
+    },
+	{
+        "type" : "mutation",
+        "id" : "PROF_REISEN",
+        "name" : "Moon Rabbit Ears",
+        "points" : 0,
+		"visibility": 10,
+        "ugliness" : 0,
+        "description" : "You have two rabbit ears that easily identify you as a moon rabbit.",
+		"valid": false,
+		"purifiable": false,
+        "profession": true
+    }
+    ]

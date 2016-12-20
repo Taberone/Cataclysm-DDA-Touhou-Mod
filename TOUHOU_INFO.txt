@@ -1,0 +1,31 @@
+----------------------------------------
+OTHER MODS NEEDED
+----------------------------------------
+-Necromancy (Seiga Kaku profession items)
+
+-Arcana Mod (Starting Locations)
+
+-Noctifer's More Classes and Scenarios (Starting Locations)
+
+-Theres probably more but I can't remember at the moment
+
+----------------------------------------
+FEATURES
+----------------------------------------
+-New professions that have special clothing, weapons, mutations, etc to go with them. Pretty much every profession has at least once custom piece of clothing for them, like a dress.
+
+-Less limits on starting locations! Start in a FEMA camp, bottom of a mine, mall, etc.
+
+-Youmou Konpaku profession: Custom dress, starts with two swords, Swordswoman (Prof trait giving Niten), Phantom Half (Prof trait). Close-combat killing machine.
+
+-Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't let her cut through walls yet, she gets Probability Travel for now), Dormant Minion, starts with Psychopath trait. Made for enslaving zombies.
+
+-Reisen Udongein Inaba profession: Carries a Lunatic Gun, a new business suit, a custom finger gun CBM, and a custom holster. Bionic gunslinger/aimbot.
+
+-Tenshi Hinanawi profession: Gets the Sword of Hisou (custom Jian), starts with Unbreakable and Celestial (Buffed Thick Skin).
+
+-Sakuya Izayoi: Time stopping, knife throwing maid.
+
+-Rei'sen/Reisen II: Gets a Lunar Rifle w/ integrated bayonet and teleportation. Somewhat more "balanced" than the others skills-wise due to starting with 5 instead of 10.
+
+-Iku Nagae: Has a weaponized scarf, starts with electricity-based bionics and a Shockwave CBM, and has the Beautiful mutation

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "bio_reisen_gun",
+    "type": "GUN",
+    "name": "finger gun",
+    "description": "this a pseudo item",
+    "volume": 12,
+    "price": 0,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "magenta",
+    "skill": "pistol",
+    "range": 30,
+    "ranged_damage": 22,
+    "pierce": 15,
+    "dispersion": 10,
+    "durability": 10,
+    "reload": 0,
+	"modes": [ [ "DEFAULT", "auto", 5 ] ],
+    "ammo_effects": [ "LASER" ],
+    "flags": [ "NEVER_JAMS", "TRADER_AVOID" ]
+  }
+]
