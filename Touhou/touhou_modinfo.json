@@ -1,10 +1,9 @@
 {
     "type": "MOD_INFO",
-    "mod-type": "SUPPLEMENTAL",
     "ident": "Touhou",
     "name": "Touhou Professions",
-    "author": "Taberone",
+    "author": [ "Taberone" ],
     "description": "Touhou-inspired professions. Coregame balance not guaranteed.",
-    "category": "rebalance",
+    "category": "touhou",
     "path": ""
 }
