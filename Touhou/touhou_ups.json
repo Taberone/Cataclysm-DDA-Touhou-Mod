@@ -35,7 +35,7 @@
     "volume": 4,
     "price": 720000,
     "to_hit": 1,
-    "bashing": 6,
+    "bashing": 10,
     "material": [ "steel", "plastic" ],
     "symbol": "(",
     "color": "magenta",
