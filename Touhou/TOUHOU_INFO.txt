@@ -16,7 +16,7 @@ FEATURES
 
 -Less limits on starting locations! Start in a FEMA camp, bottom of a mine, mall, etc.
 
--Youmou Konpaku profession: Custom dress, starts with two swords, Swordswoman (Prof trait giving Niten), Phantom Half (Prof trait). Close-combat killing machine.
+-Youmu Konpaku profession: Custom dress, starts with two swords, Swordswoman (Prof trait giving Niten), Phantom Half (Prof trait). Close-combat killing machine.
 
 -Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't let her cut through walls yet, she gets Probability Travel for now), Dormant Minion, starts with Psychopath trait. Made for enslaving zombies.
 
