@@ -17,7 +17,7 @@
     "durability": 10,
     "reload": 0,
 	"modes": [ [ "DEFAULT", "auto", 5 ] ],
-    "ammo_effects": [ "LASER" ],
+    "ammo_effects": [ "LASER", "INCENDIARY" ],
     "flags": [ "NEVER_JAMS", "TRADER_AVOID" ]
   }
 ]
