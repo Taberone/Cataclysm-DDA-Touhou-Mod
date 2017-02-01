@@ -3,7 +3,7 @@
         "id" : "PROF_TENSHIARMOR",
         "name" : "Celestial",
         "points" : 0,
-        "description" : "Your skin is extraordinarily tough. Cutting and bashing damage are reduced by eighteen, and wet penalties are reduced.",
+        "description" : "Your skin is extraordinarily tough. Cutting and bashing damage are reduced by twenty, and wet penalties are reduced.",
         "starting_trait" : false,
         "cancels" : ["THINSKIN", "THICKSKIN", "TOUGH"],
         "wet_protection" : [
