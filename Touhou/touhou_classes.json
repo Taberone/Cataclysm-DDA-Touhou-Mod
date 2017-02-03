@@ -1,6 +1,44 @@
 [
 	{
         "type": "profession",
+        "ident": "fujiwara_no_mokou",
+        "name": "Fujiwara no Mokou",
+        "description": "WIP.",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII",
+				"bio_lighter"
+            ],
+        "skills": [
+			{
+                "level": 8,
+                "name": "melee"
+            }
+        ],
+		"traits": [
+            "PROF_MOKOU"
+        ],
+        "items": {
+            "both": {
+                "items": [
+				"dress_shirt",
+				"sneakers",
+				"mokou_talisman"
+                ]
+            },
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
+	{
+        "type": "profession",
         "ident": "iku_nagae",
         "name": "Iku Nagae",
         "description": "You were known as the Beautiful Scarlet Cloth and a messenger of the Dragon Palace. All your efforts to warn the world about the coming cataclysm were for naught! You've got a weaponized scarf and electricity powers to make survival in this post-cataclysm world easier.",

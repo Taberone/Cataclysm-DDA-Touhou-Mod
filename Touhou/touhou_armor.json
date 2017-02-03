@@ -1,5 +1,25 @@
 [	
 	{
+    "id": "mokou_talisman",
+    "type": "ARMOR",
+    "name": "fireproof talismans",
+    "description": "A bunch of paper talismans that provide excellent protection from fire and smoke.",
+    "weight": 0,
+    "volume": 0,
+    "price": 240500,
+    "to_hit": -8,
+    "material": [ "paper" ],
+    "symbol": "[",
+    "color": "light_gray",
+    "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
+    "coverage": 100,
+    "encumbrance": 0,
+    "warmth": 0,
+    "material_thickness": 5,
+    "environmental_protection": 20,
+    "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS" ]
+	},
+	{
     "id": "dress_shirt_iku",
     "type": "ARMOR",
     "name": "dress shirt",

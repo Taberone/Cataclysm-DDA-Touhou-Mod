@@ -26,13 +26,13 @@ Acceptable stats for any clothing or weaponry added by this mod (Lots of copy/pa
 
 Seiga's hairstick cutting through walls
 
+Yagokoro Lab location w/ clones of certain Touhou characters as enemies
+-Sorta like a Science Lab except with Touhou stuff
+-Enemies: Clones of Reisen Udongein Inaba, Rei'sen, Tewi, Eirin Yagokoro, etc
+
 ---------
 MIGHT DO:
 ---------
-
-Youmu's clothes divided into separate pieces instead of an all-in-one dress
-
-Youmu gets her named weapons instead of the generic vanilla swords and either Niten is modded to include them too, or a new martial arts style that's Niten on steroids is added that includes them
 
 Custom Sakuya knives? Knife throwing bionic?
 
@@ -67,6 +67,17 @@ CAN DO (Eventually):
 ---------
 
 Mokou profession (Lots and lots of fire)
+-Mokou's profession trait needs a better name and possibly a custom martial art
+-Sashinuki Hakama (Mokou's pants according to Touhou Wiki) still needs to be added
+-Maybe add in a bionic gun for Mokou
+
+Youmu tweaks:
+-Youmu's dress divided into separate pieces instead of an all-in-one dress
+-Youmu gets her named weapons instead of the generic vanilla swords and either Niten is modded to include them too, or a new martial arts style that's Niten on steroids is added that includes them
+
+Rei'sen tweaks:
+-Something inbetween Finger Laser CBM (Weak) and Finger Gun CBM (Strong and powerful). Maybe the Finger Gun CBM but without burst fire and an increased power cost.
+-Add in the rabbit hood(?) all Lunar Defense Corps members wear in Silent Sinner In Blue (Which is where Rei'sen comes from).
 
 Eirin profession (Master archery/first aid/other?)
 
@@ -87,7 +98,3 @@ Eiki Shiki
 ---------
 UNSORTED:
 ---------
-
-Yagokoro Lab location w/ clones of certain Touhou characters as enemies
--Sorta like a Science Lab except with Touhou stuff
--Enemies: Clones of Reisen Udongein Inaba, Rei'sen, Eirin Yagokoro, etc

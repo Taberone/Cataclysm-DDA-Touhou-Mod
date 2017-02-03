@@ -1,4 +1,17 @@
-[{
+[
+	{
+        "type" : "mutation",
+        "id" : "PROF_MOKOU",
+        "name" : "Kicker",
+        "points" : 0,
+        "description" : "You are experienced in kicking things into submission.",
+		 "//" : "Needs a better name and description",
+        "valid": false,
+        "initial_ma_styles" : [ "style_taekwondo" ],
+        "purifiable": false,
+        "profession": true
+    },
+	{
         "type" : "mutation",
         "id" : "PROF_TENSHIARMOR",
         "name" : "Celestial",
@@ -28,7 +41,8 @@
 		"valid": false,
 		"purifiable": false,
         "profession": true
-    },{
+    },
+	{
         "type" : "mutation",
         "id" : "PROF_YOUMU",
         "name" : "Swordswoman",
@@ -38,7 +52,8 @@
         "initial_ma_styles" : [ "style_niten" ],
         "purifiable": false,
         "profession": true
-    },{
+    },
+	{
         "type" : "mutation",
         "id" : "PROF_REISENTAIL",
         "name" : "Moon Rabbit Tail",
