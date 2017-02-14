@@ -1,9 +1,9 @@
 [
-   {
+  {
     "id": "bio_reisen",
     "type": "bionic",
     "name": "Finger Gun CBM",
-    "description": "You have the ability to shoot danmaku from your fingers.",
+    "description": "You have the ability to shoot five bullets in quick succession from your fingers.",
     "occupied_bodyparts": [ [ "HAND_R", 1 ] ],
     "act_cost": 20,
     "fake_item": "bio_reisen_gun",

@@ -1,5 +1,23 @@
 [	
 	{
+    "id": "lunar_hood",
+    "type": "ARMOR",
+    "name": "lunar hood",
+    "description": "A hood with space for a Moon Rabbit's ears to stick out of. This is worn by members of the Lunar Defense Corps.",
+    "weight": 210,
+    "volume": 2,
+    "price": 2500,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "color": "white",
+    "covers": [ "HEAD" ],
+    "coverage": 95,
+    "encumbrance": 5,
+    "warmth": 10,
+    "material_thickness": 1,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY" ]
+	},
+	{
     "id": "mokou_talisman",
     "type": "ARMOR",
     "name": "fireproof talismans",
