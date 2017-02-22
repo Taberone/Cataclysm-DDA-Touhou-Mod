@@ -10,7 +10,7 @@
     "to_hit": 3,
     "bashing": 4,
 	"cutting": 14,
-    "material": [ "steel", "plastic" ],
+    "material": [ "steel", "wood" ],
     "symbol": "(",
     "color": "yellow",
     "skill": "rifle",
