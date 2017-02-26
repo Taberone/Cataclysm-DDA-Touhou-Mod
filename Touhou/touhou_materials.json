@@ -1,0 +1,23 @@
+[
+  {
+    "type": "material",
+	"//" : "identical to paper except for fire resistance",
+    "ident": "touhou_paper_mokou",
+    "name": "fireproof paper",
+    "density": 4,
+    "bash_resist": 1,
+    "cut_resist": 1,
+    "acid_resist": 1,
+    "fire_resist": 20,
+    "elec_resist": 2,
+    "chip_resist": 0,
+    "dmg_adj": [ "ripped", "torn", "shredded", "tattered" ],
+    "bash_dmg_verb": "ripped",
+    "cut_dmg_verb": "cut",
+    "burn_data": [
+      { "immune": true },
+      { "immune": true },
+      { "immune": true }
+    ]
+  }
+]

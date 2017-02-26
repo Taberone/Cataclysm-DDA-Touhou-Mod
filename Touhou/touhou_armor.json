@@ -1,23 +1,5 @@
 [	
 	{
-    "id": "lunar_hood",
-    "type": "ARMOR",
-    "name": "lunar hood",
-    "description": "A hood with space for a Moon Rabbit's ears to stick out of. This is worn by members of the Lunar Defense Corps.",
-    "weight": 210,
-    "volume": 2,
-    "price": 2500,
-    "material": [ "cotton" ],
-    "symbol": "[",
-    "color": "white",
-    "covers": [ "HEAD" ],
-    "coverage": 95,
-    "encumbrance": 5,
-    "warmth": 10,
-    "material_thickness": 1,
-    "flags": [ "VARSIZE", "WATER_FRIENDLY" ]
-	},
-	{
     "id": "mokou_talisman",
     "type": "ARMOR",
     "name": "fireproof talismans",
@@ -26,15 +8,15 @@
     "volume": 0,
     "price": 240500,
     "to_hit": -8,
-    "material": [ "paper" ],
+    "material": [ "touhou_paper_mokou" ],
     "symbol": "[",
     "color": "light_gray",
-    "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
+    "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS" ],
     "coverage": 100,
     "encumbrance": 0,
     "warmth": 0,
     "material_thickness": 5,
-    "environmental_protection": 20,
+	"environmental_protection": 10,
     "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS" ]
 	},
 	{
@@ -134,6 +116,24 @@
     "warmth": 15,
     "material_thickness": 2,
     "flags": [ "VARSIZE", "FANCY" ]
+	},
+	{
+    "id": "lunar_hood",
+    "type": "ARMOR",
+    "name": "lunar hood",
+    "description": "A hood with space for a Moon Rabbit's ears to stick out of. This is worn by members of the Lunar Defense Corps.",
+    "weight": 210,
+    "volume": 2,
+    "price": 2500,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "color": "white",
+    "covers": [ "HEAD" ],
+    "coverage": 95,
+    "encumbrance": 5,
+    "warmth": 10,
+    "material_thickness": 1,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY" ]
 	},
 	{
     "id": "suit_reisen",

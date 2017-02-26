@@ -41,7 +41,7 @@
         "type": "profession",
         "ident": "iku_nagae",
         "name": "Iku Nagae",
-        "description": "You were known as the Beautiful Scarlet Cloth and a messenger of the Dragon Palace. All your efforts to warn the world about the coming cataclysm were for naught! You've got a weaponized scarf and electricity powers to make survival in this post-cataclysm world easier.",
+        "description": "All your efforts to warn the world about the coming cataclysm were for naught, and now you're trapped here! You've got a weaponized scarf and electricity powers to make survival in this post-cataclysm world easier.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -74,9 +74,6 @@
                 "level": 8,
                 "name": "dodge"
             }
-        ],
-		"traits": [
-            "BEAUTIFUL"
         ],
         "items": {
             "both": {
