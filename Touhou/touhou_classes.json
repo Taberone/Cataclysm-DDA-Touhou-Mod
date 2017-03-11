@@ -2,7 +2,7 @@
 	{
         "type": "profession",
         "ident": "fujiwara_no_mokou",
-        "name": "Fujiwara no Mokou",
+        "name": "Hourai Victim",
         "description": "WIP.",
         "points": 0,
 		"CBMs":[
@@ -40,8 +40,8 @@
 	{
         "type": "profession",
         "ident": "iku_nagae",
-        "name": "Iku Nagae",
-        "description": "All your efforts to warn the world about the coming cataclysm were for naught, and now you're trapped here! You've got a weaponized scarf and electricity powers to make survival in this post-cataclysm world easier.",
+        "name": "Dragon Palace Messenger",
+        "description": "All your efforts to warn the world about the coming cataclysm were for naught, and now you're trapped here! You've got a weaponized scarf and electricity powers to make survival in this post-cataclysm world easier, however.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -99,7 +99,7 @@
 	{
         "type": "profession",
         "ident": "reisen_II",
-        "name": "Rei'sen",
+        "name": "Lunar Defense Corps Recruit",
         "description": "You were accompanying the Watatsuki sisters on their visit to Earth when the cataclysm struck! In the chaos and panic of evacuation, everyone was forced to split up. You've got some skills from your Lunar Defense Corps training, but you'll need more than that to survive...",
         "points": 0,
 		"CBMs":[
@@ -114,6 +114,10 @@
 			{
                 "level": 5,
                 "name": "melee"
+            },
+			{
+                "level": 5,
+                "name": "stabbing"
             },
 			{
                 "level": 5,
@@ -161,7 +165,7 @@
 	{
         "type": "profession",
         "ident": "sakuya_izayoi",
-        "name": "Sakuya Izayoi",
+        "name": "Chief Maid of the Scarlet Devil Mansion",
         "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is presumably amongst the billions lost in the cataclysm. Survival is all that matters now, but how long can you last as a time-stopping, knife throwing maid?",
         "points": 0,
 		"CBMs":[
@@ -222,7 +226,7 @@
     {
         "type": "profession",
         "ident": "tenshi_hinanawi",
-        "name": "Tenshi Hinanawi",
+        "name": "Celestial",
         "description": "The carefree lifestyle that came with being a celestial sure was boring until the cataclysm struck. Now the world has irrevocably changed and you're stuck fighting for the rest your life. Isn't that a nice change of pace for once?",
         "points": 0,
 		"CBMs":[
@@ -271,7 +275,7 @@
 	{
         "type": "profession",
         "ident": "reisen_udongein_inaba",
-        "name": "Reisen Udongein Inaba",
+        "name": "Lunatic Moon Rabbit",
         "description": "You were running an errand for your master when the cataclysm struck. You have your skills as an expert gun slinger, but will that be enough to get you out of this alive?",
         "points": 0,
 		"CBMs":[
@@ -343,8 +347,8 @@
 	{
         "type": "profession",
         "ident": "seiga_kaku",
-        "name": "Seiga Kaku",
-        "description": "You're a wicked hermit with a zombie as your personal servant and the ability to pass through walls. You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the cataclysm should be... Interesting.",
+        "name": "Wicked Hermit",
+        "description": "You're a wicked, amoral hermit with a zombie as your personal servant and the ability to pass through walls. You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the cataclysm should be... Interesting.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -397,7 +401,7 @@
 	{
         "type": "profession",
         "ident": "youmu_konpaku",
-        "name": "Youmu Konpaku",
+        "name": "Phantom Swordswoman",
         "description": "You were the faithful half-human, half-phantom servant of Yuyuko Saigyouji until the cataclysm struck, separating both of you. You stand alone against the coming darkness, but at least you have your skills as an expert swordswoman!",
         "points": 0,
 		"CBMs":[
