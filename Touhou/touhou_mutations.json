@@ -14,7 +14,7 @@
 	{
         "type" : "mutation",
         "id" : "PROF_TENSHIARMOR",
-        "name" : "Celestial",
+        "name" : "Celestial Skin",
         "points" : 0,
         "description" : "Your skin is extraordinarily tough. Cutting and bashing damage are reduced by twenty, and wet penalties are reduced by four.",
         "starting_trait" : false,
