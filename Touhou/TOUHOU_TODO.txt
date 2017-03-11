@@ -70,6 +70,7 @@ Mokou profession (Lots and lots of fire)
 -Mokou's profession trait needs a better name and possibly a custom martial art
 -Sashinuki Hakama (Mokou's pants according to Touhou Wiki) still needs to be added?
 -Maybe add in a bionic flamethrower for Mokou
+-Mokou's Flamethrower spawns with ammo already loaded
 
 Youmu tweaks:
 -Youmu's dress divided into separate pieces (Shirt/Vest/Dress?) instead of an all-in-one dress

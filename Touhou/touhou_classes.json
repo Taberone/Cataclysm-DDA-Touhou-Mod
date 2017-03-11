@@ -3,12 +3,13 @@
         "type": "profession",
         "ident": "fujiwara_no_mokou",
         "name": "Hourai Victim",
-        "description": "WIP.",
+        "description": "Description Needed. WIP.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
                 "bio_power_storage_mkII",
-				"bio_lighter"
+				"bio_lighter",
+				"bio_heatsink"
             ],
         "skills": [
 			{
@@ -24,7 +25,12 @@
                 "items": [
 				"dress_shirt",
 				"sneakers",
-				"mokou_talisman"
+				"pants_cargo",
+				"mokou_talisman",
+				"hose"
+                ],
+				"entries": [
+                    { "item": "rm451_flamethrower", "contents-item": "shoulder_strap"}
                 ]
             },
             "male": [
@@ -40,7 +46,7 @@
 	{
         "type": "profession",
         "ident": "iku_nagae",
-        "name": "Dragon Palace Messenger",
+        "name": "Oarfish Messenger",
         "description": "All your efforts to warn the world about the coming cataclysm were for naught, and now you're trapped here! You've got a weaponized scarf and electricity powers to make survival in this post-cataclysm world easier, however.",
         "points": 0,
 		"CBMs":[
@@ -99,7 +105,7 @@
 	{
         "type": "profession",
         "ident": "reisen_II",
-        "name": "Lunar Defense Corps Recruit",
+        "name": "Moon Rabbit Recruit",
         "description": "You were accompanying the Watatsuki sisters on their visit to Earth when the cataclysm struck! In the chaos and panic of evacuation, everyone was forced to split up. You've got some skills from your Lunar Defense Corps training, but you'll need more than that to survive...",
         "points": 0,
 		"CBMs":[
@@ -165,7 +171,7 @@
 	{
         "type": "profession",
         "ident": "sakuya_izayoi",
-        "name": "Chief Maid of the Scarlet Devil Mansion",
+        "name": "Chief Maid of the SDM",
         "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is presumably amongst the billions lost in the cataclysm. Survival is all that matters now, but how long can you last as a time-stopping, knife throwing maid?",
         "points": 0,
 		"CBMs":[
