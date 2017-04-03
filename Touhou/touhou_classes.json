@@ -2,8 +2,8 @@
 	{
         "type": "profession",
         "ident": "fujiwara_no_mokou",
-        "name": "Hourai Victim",
-        "description": "Description Needed. WIP.",
+        "name": "Hourai Incarnate",
+        "description": "The cataclysm has struck, your immortal rival that you've been killing constantly has mysteriously vanished, and it feels as if you've been somehow freed from the bonds of your own immortality. There is only one way to find out if you can actually stay dead, but can you take that risk?",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
