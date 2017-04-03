@@ -15,6 +15,8 @@ Rei'sen/Reisen II (Reisen's business suit, Lunar Rifle)
 
 Iku (Custom shirt, skirt, weaponized scarf, hat)
 
+Fujiwara No Mokou (Fireproof talismans that sorta work, starts with a custom mutation that gives Taekwondo)
+
 ---------
 DON'T KNOW HOW/UNSURE HOW TO:
 ---------
@@ -67,7 +69,7 @@ CAN DO (Eventually):
 ---------
 
 Mokou profession (Lots and lots of fire)
--Mokou's profession trait needs a better name and possibly a custom martial art
+-Mokou's profession trait possibly needs a custom martial art
 -Sashinuki Hakama (Mokou's pants according to Touhou Wiki) still needs to be added?
 -Maybe add in a bionic flamethrower for Mokou
 -Mokou's Flamethrower spawns with ammo already loaded
@@ -82,7 +84,7 @@ Rei'sen tweaks:
 
 Eirin profession (Master archery/first aid/other?)
 
-Byakuren and Meiling profession (Punch/kick everything to death)
+Byakuren and/or Meiling profession (Punch/kick everything to death)
 
 Aya profession (Really fast runner)
 
