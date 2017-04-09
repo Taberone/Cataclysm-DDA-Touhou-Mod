@@ -15,6 +15,10 @@
 			{
                 "level": 8,
                 "name": "melee"
+            },
+			{
+                "level": 8,
+                "name": "cooking"
             }
         ],
 		"traits": [
@@ -111,7 +115,7 @@
 		"CBMs":[
                 "bio_torsionratchet",
                 "bio_power_storage_mkII",
-				"bio_laser",
+				"bio_reisen_II",
 				"bio_ups",
 				"bio_teleport",
                 "bio_uncanny_dodge"
