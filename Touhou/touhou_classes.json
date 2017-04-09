@@ -19,6 +19,10 @@
 			{
                 "level": 8,
                 "name": "cooking"
+            },
+			{
+                "level": 8,
+                "name": "dodge"
             }
         ],
 		"traits": [
