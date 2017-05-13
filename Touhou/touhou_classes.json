@@ -17,8 +17,16 @@
                 "name": "melee"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "cooking"
+            },
+			{
+                "level": 6,
+                "name": "unarmed"
+            },
+			{
+                "level": 6,
+                "name": "launcher"
             },
 			{
                 "level": 8,
@@ -73,15 +81,15 @@
                 "name": "melee"
             },
 			{
-                "level": 5,
+                "level": 6,
                 "name": "cutting"
             },
 			{
-                "level": 5,
+                "level": 6,
                 "name": "unarmed"
             },
 			{
-                "level": 5,
+                "level": 6,
                 "name": "throw"
             },
             {
@@ -159,7 +167,7 @@
 				"stockings",
 				"skirt",
 				"knit_scarf",
-				"lunar_hood",
+				"lunar_helmet",
 				"sneakers"
                 ],
                 "entries": [
@@ -194,7 +202,7 @@
                 "name": "cutting"
             },
 			{
-                "level": 10,
+                "level": 8,
                 "name": "throw"
             },
             {
@@ -202,7 +210,7 @@
                 "name": "melee"
             },
             {
-                "level": 10,
+                "level": 8,
                 "name": "dodge"
             }
         ],
@@ -241,7 +249,7 @@
         "type": "profession",
         "ident": "tenshi_hinanawi",
         "name": "Celestial",
-        "description": "The carefree lifestyle that came with being a celestial sure was boring until the cataclysm struck. Now the world has irrevocably changed and you're stuck fighting for the rest your life. Isn't that a nice change of pace for once?",
+        "description": "The carefree lifestyle that came with being a celestial sure was boring until the cataclysm struck. Now the world has irrevocably changed and you're stuck fighting for your life. Isn't that a nice change of pace for once?",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -302,7 +310,7 @@
             ],
         "skills": [
             {
-                "level": 10,
+                "level": 8,
                 "name": "gun"
             },
             {
@@ -314,11 +322,11 @@
                 "name": "shotgun"
             },
 			{
-                "level": 10,
+                "level": 8,
                 "name": "rifle"
             },
 			{
-                "level": 10,
+                "level": 8,
                 "name": "pistol"
             },
 			{
@@ -421,20 +429,19 @@
 		"CBMs":[
                 "bio_torsionratchet",
                 "bio_power_storage_mkII",
-                "bio_time_freeze",
                 "bio_uncanny_dodge"
             ],
         "skills": [
             {
-                "level": 10,
+                "level": 8,
                 "name": "cutting"
             },
             {
-                "level": 10,
+                "level": 8,
                 "name": "melee"
             },
             {
-                "level": 10,
+                "level": 8,
                 "name": "dodge"
             }
         ],
@@ -446,6 +453,7 @@
             "both": {
                 "items": [
                 "stockings",
+				"dress_shirt",
 				"dress_youmu",
 				"knit_scarf",
 				"ribbon_youmu",

@@ -5,7 +5,6 @@
         "name" : "Hourai Victim",
         "points" : 0,
         "description" : "You primarily fight in melee combat by kicking opponents into submission.",
-		 "//" : "Needs a better name and description. Mokou does a lot of kicking in Urban Legend In Limbo, by the way.",
         "valid": false,
         "initial_ma_styles" : [ "style_taekwondo" ],
         "purifiable": false,
