@@ -188,7 +188,7 @@
         "type": "profession",
         "ident": "sakuya_izayoi",
         "name": "Chief Maid of the SDM",
-        "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is presumably amongst the billions lost in the cataclysm. Survival is all that matters now, but how long can you last as a time-stopping, knife throwing maid?",
+        "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is presumably amongst the billions lost in the cataclysm. Survival is all that matters now, but how long will you last as a time-stopping, knife throwing maid?",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -198,7 +198,7 @@
             ],
         "skills": [
             {
-                "level": 8,
+                "level": 6,
                 "name": "cutting"
             },
 			{
@@ -206,7 +206,7 @@
                 "name": "throw"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "melee"
             },
             {
@@ -258,11 +258,11 @@
             ],
         "skills": [
             {
-                "level": 8,
+                "level": 6,
                 "name": "cutting"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "melee"
             },
             {
@@ -397,7 +397,9 @@
             }
         ],
 		"traits": [
-            "PSYCHOPATH"
+            "PSYCHOPATH", 
+			"LIAR", 
+			"SPIRITUAL"
         ],
         "items": {
             "both": [
@@ -407,7 +409,7 @@
 				"hairstick_seiga",
 				"sneakers",
 				"minion_dormant",
-				"pockknife",
+				"knife_butcher",
 				"knit_scarf"
             ],
             "male": [
