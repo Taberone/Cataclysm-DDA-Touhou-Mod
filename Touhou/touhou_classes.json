@@ -1,6 +1,60 @@
 [
 	{
         "type": "profession",
+        "ident": "nitori_kawashiro",
+        "name": "Lateral-Thinking Kappa",
+        "description": "WIP.",
+        "points": 0,
+		"CBMs":[
+                "bio_torsionratchet",
+                "bio_power_storage_mkII",
+            ],
+        "skills": [
+			{
+                "level": 8,
+                "name": "melee"
+            },
+			{
+                "level": 6,
+                "name": "cooking"
+            },
+			{
+                "level": 6,
+                "name": "unarmed"
+            },
+			{
+                "level": 6,
+                "name": "launcher"
+            },
+			{
+                "level": 8,
+                "name": "dodge"
+            }
+        ],
+		"traits": [
+            "PROF_MOKOU"
+        ],
+        "items": {
+            "both": {
+                "items": [
+				"hose"
+                ],
+				"entries": [
+                    { "item": "rm451_flamethrower", "contents-item": "shoulder_strap"}
+                ]
+            },
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        },
+        "flags" : ["SCEN_ONLY"]
+    },
+	{
+        "type": "profession",
         "ident": "fujiwara_no_mokou",
         "name": "Hourai Incarnate",
         "description": "The cataclysm has struck, your immortal rival that you've been killing constantly has mysteriously vanished, and it feels as if you've been somehow freed from the bonds of your own immortality. There is only one way to find out if you can actually stay dead, but can you take that risk?",
@@ -81,15 +135,19 @@
                 "name": "melee"
             },
 			{
-                "level": 6,
+                "level": 5,
                 "name": "cutting"
             },
 			{
-                "level": 6,
+                "level": 5,
+                "name": "bashing"
+            },
+			{
+                "level": 5,
                 "name": "unarmed"
             },
 			{
-                "level": 6,
+                "level": 5,
                 "name": "throw"
             },
             {
@@ -134,19 +192,19 @@
             ],
         "skills": [
 			{
-                "level": 5,
+                "level": 4,
                 "name": "melee"
             },
 			{
-                "level": 5,
+                "level": 4,
                 "name": "stabbing"
             },
 			{
-                "level": 5,
+                "level": 4,
                 "name": "gun"
             },
 			{
-                "level": 5,
+                "level": 4,
                 "name": "rifle"
             },
             {

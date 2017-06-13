@@ -13,6 +13,7 @@
         "weight": 192,
         "volume": 5,
 		"cutting": 10,
+		"bashing": 10,
         "to_hit" : 2,
         "use_action": {
             "type": "transform",
