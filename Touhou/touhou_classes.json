@@ -57,7 +57,7 @@
         "type": "profession",
         "ident": "fujiwara_no_mokou",
         "name": "Hourai Incarnate",
-        "description": "The cataclysm has struck, your immortal rival that you've been killing constantly has mysteriously vanished, and it feels as if you've been somehow freed from the bonds of your own immortality. There is only one way to find out if you can actually stay dead, but can you take that risk?",
+        "description": "Your rival that you've been killing constantly has mysteriously vanished during the cataclysm, along with everyone else that you knew. You face the post-cataclysm world alone with lots and lots of fire.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -94,7 +94,7 @@
             "both": {
                 "items": [
 				"dress_shirt",
-				"sneakers",
+				"dress_shoes",
 				"pants_cargo",
 				"mokou_talisman",
 				"hose"
@@ -163,7 +163,7 @@
 				"skirt_iku",
 				"long_iku_scarf",
 				"fedora_iku",
-				"sneakers"
+				"dress_shoes"
                 ]
             },
             "male": [
@@ -226,7 +226,7 @@
 				"skirt",
 				"knit_scarf",
 				"lunar_helmet",
-				"sneakers"
+				"dress_shoes"
                 ],
                 "entries": [
                     { "item": "lunar_rifle", "contents-item": "shoulder_strap" }
@@ -286,7 +286,7 @@
 				"throwing_knife",
 				"throwing_knife",
 				"pocketwatch",
-				"sneakers",
+				"dress_shoes",
 				"knit_scarf"
                 ],
                 "entries": [
@@ -306,7 +306,7 @@
     {
         "type": "profession",
         "ident": "tenshi_hinanawi",
-        "name": "Celestial",
+        "name": "Celestial Delinquent",
         "description": "The carefree lifestyle that came with being a celestial sure was boring until the cataclysm struck. Now the world has irrevocably changed and you're stuck fighting for your life. Isn't that a nice change of pace for once?",
         "points": 0,
 		"CBMs":[
@@ -372,11 +372,11 @@
                 "name": "gun"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "smg"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "shotgun"
             },
 			{
@@ -388,7 +388,7 @@
                 "name": "pistol"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "launcher"
             },
             {
@@ -408,7 +408,7 @@
 				"suit_reisen",
 				"stockings",
 				"skirt",
-				"sneakers",
+				"dress_shoes",
 				"knit_scarf"
                 ],
                 "entries": [
@@ -428,7 +428,7 @@
         "type": "profession",
         "ident": "seiga_kaku",
         "name": "Wicked Hermit",
-        "description": "You're a wicked, amoral hermit with a zombie as your personal servant and the ability to pass through walls. You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the cataclysm should be... Interesting.",
+        "description": "You're a wicked, amoral hermit with the ability to pass through walls and enslave the undead. You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the cataclysm should be... Interesting.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -465,7 +465,7 @@
 				"runner_bag",
 				"dress_seiga",
 				"hairstick_seiga",
-				"sneakers",
+				"dress_shoes",
 				"minion_dormant",
 				"knife_butcher",
 				"knit_scarf"
@@ -517,7 +517,7 @@
 				"dress_youmu",
 				"knit_scarf",
 				"ribbon_youmu",
-				"sneakers"
+				"dress_shoes"
                 ],
                 "entries": [
                     { "item": "katana", "container-item": "scabbard" },
