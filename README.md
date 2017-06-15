@@ -1,5 +1,5 @@
 # Cataclysm-DDA-Touhou-Mod
-Goes in data/mods. This mod is a work in progress that irregularly gets updated.
+Goes in data/mods. Be aware that this mod is a work in progress that irregularly gets updated.
 
 Contains new professions based off of Touhou, a special scenario with the Touhou professions and less limits on where to start, and new clothing/weapons/profession traits/etc specifically made for certain professions.
 
