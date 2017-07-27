@@ -5,7 +5,7 @@ Contains new professions based off of Touhou, a special scenario with the Touhou
 
 Other mods required would be Necromancy (Wicked Hermit spawns with a Dormant Minion), Arcana Mod (Wicked Hermit knows Arcana skill), and More Classes and Scenarios (Starting locations from both of them are used).
 
-Playing as a male survivor will only change the underwear (Boxers instead of panties) and nothing else (still wearing a dress/skirt/etc) at the moment.
+Playing as a male survivor will only change the underwear (Boxers instead of panties) and nothing else (still wearing a dress/skirt/etc) at the moment. There is no compatibility with Chesthole or tilesets that actually display clothing and gear at the moment.
 
 ----------------------------------------------------------------
 **New Professions:**
