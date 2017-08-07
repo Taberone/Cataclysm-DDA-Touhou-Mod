@@ -1,7 +1,7 @@
 # Cataclysm-DDA-Touhou-Mod
 Goes in data/mods.
 
-Contains new professions based off of Touhou, a special scenario with the Touhou professions and less limits on where to start, and new clothing/weapons/profession traits/etc specifically made for certain professions.
+Contains new professions based off of Touhou, a special scenario with the Touhou professions and less limits on where to start, and new clothing/weapons/profession traits/etc specifically made for certain professions. Development is semi-active and mostly on a "when I feel like it" basis. The mod is considered unfinished, but functional.
 
 Other mods required would be Arcana Mod (Wicked Hermit knows Arcana skill), and More Classes and Scenarios (Starting locations from both of them are used).
 
