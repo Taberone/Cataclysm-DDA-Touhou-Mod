@@ -10,7 +10,7 @@
     "description": "A golden, shape-shifting jian that is spiritually summoned into battle, allowing it to be stored without taking up a significant amount of space or weighing the user down. Activate to summon it.",
     "price": 160000,
     "material": "gold",
-    "flags" : ["DURABLE_MELEE", "SHEATH_SWORD", "TRADER_AVOID"],
+    "flags" : ["UNARMED_WEAPON", "TRADER_AVOID"],
 	 "use_action": {
             "menu_text": "Summon Sword",
             "type": "transform",
@@ -32,6 +32,7 @@
     "color": "light_gray",
     "name": "sword of hisou (summoned)",
     "name_plural": "swords of hisou (summoned)",
+	"//": "Touhou Wiki states that it's a golden Chinese jian, the sword is shape shifting, and that the sword is probably spiritually summoned into battle.",
     "description": "A golden, shape-shifting jian that is spiritually summoned into battle, allowing it to be stored without taking up a significant amount of space or weighing the user down. Activate to dismiss it.",
     "price": 160000,
     "material": "gold",
