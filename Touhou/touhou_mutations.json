@@ -35,7 +35,7 @@
         "name" : "Phantom Half",
         "points" : 0,
 		"visibility": 10,
-        "ugliness" : 0,
+        "ugliness" : 2,
         "description" : "You have a phantom half following you around.",
 		"valid": false,
 		"purifiable": false,
@@ -55,23 +55,26 @@
 	{
         "type" : "mutation",
         "id" : "PROF_REISENTAIL",
-        "name" : "Moon Rabbit Tail",
+        "name" : "Rabbit Tail",
         "points" : 0,
         "visibility" : 2,
-        "description" : "You have a fluffy rabbit tail, just like any other moon rabbit.",
+		"ugliness" : 2,
+        "description" : "Like all moon rabbits, You have a fluffy little rabbit tail.",
 		"cancels" : ["TAIL_STUB"],
 		"purifiable": false,
         "profession": true
+		"cancels" : ["TAIL_LONG", "TAIL_THICK", "TAIL_FIN", "TAIL_RAT", "TAIL_RAPTOR", "TAIL_CATTLE", "TAIL_FLUFFY", "TAIL_STING", "TAIL_CLUB"]
     },
 	{
         "type" : "mutation",
         "id" : "PROF_REISEN",
-        "name" : "Moon Rabbit Ears",
+        "name" : "Rabbit Ears",
         "points" : 0,
 		"visibility": 4,
-        "description" : "You have two rabbit ears that easily identify you as a moon rabbit.",
+        "description" : "Like all moon rabbits, you have a pair of rabbit ears.",
 		"valid": false,
 		"purifiable": false,
         "profession": true
+		"cancels" : ["FELINE_EARS", "URSINE_EARS", "ELFA_EARS", "CANINE_EARS", "LUPINE_EARS"]
     }
     ]
