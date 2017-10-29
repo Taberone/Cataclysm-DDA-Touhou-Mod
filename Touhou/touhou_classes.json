@@ -71,7 +71,7 @@
             ],
         "skills": [
 			{
-                "level": 8,
+                "level": 6,
                 "name": "melee"
             },
 			{
@@ -87,7 +87,7 @@
                 "name": "launcher"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "dodge"
             }
         ],
@@ -135,7 +135,7 @@
             ],
         "skills": [
 			{
-                "level": 8,
+                "level": 6,
                 "name": "melee"
             },
 			{
@@ -147,7 +147,7 @@
                 "name": "bashing"
             },
 			{
-                "level": 5,
+                "level": 4,
                 "name": "unarmed"
             },
 			{
@@ -155,7 +155,7 @@
                 "name": "throw"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "dodge"
             }
         ],
@@ -196,23 +196,23 @@
             ],
         "skills": [
 			{
-                "level": 4,
+                "level": 2,
                 "name": "melee"
             },
 			{
-                "level": 4,
+                "level": 2,
                 "name": "stabbing"
             },
 			{
-                "level": 4,
+                "level": 2,
                 "name": "gun"
             },
 			{
-                "level": 4,
+                "level": 2,
                 "name": "rifle"
             },
             {
-                "level": 5,
+                "level": 3,
                 "name": "dodge"
             }
         ],
@@ -260,19 +260,19 @@
             ],
         "skills": [
             {
-                "level": 6,
+                "level": 4,
                 "name": "cutting"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "throw"
             },
             {
-                "level": 6,
+                "level": 4,
                 "name": "melee"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "dodge"
             }
         ],
@@ -320,15 +320,15 @@
             ],
         "skills": [
             {
-                "level": 6,
+                "level": 4,
                 "name": "cutting"
             },
             {
-                "level": 6,
+                "level": 4,
                 "name": "melee"
             },
             {
-                "level": 8,
+                "level": 4,
                 "name": "dodge"
             }
         ],
@@ -372,31 +372,31 @@
             ],
         "skills": [
             {
-                "level": 8,
+                "level": 6,
                 "name": "gun"
             },
             {
-                "level": 6,
+                "level": 4,
                 "name": "smg"
             },
 			{
-                "level": 6,
+                "level": 4,
                 "name": "shotgun"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "rifle"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "pistol"
             },
 			{
-                "level": 6,
+                "level": 4,
                 "name": "launcher"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "dodge"
             }
         ],
@@ -442,19 +442,19 @@
             ],
         "skills": [
             {
-                "level": 8,
+                "level": 6,
                 "name": "survival"
             },
 			{
-                "level": 8,
+                "level": 6,
                 "name": "magic"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "firstaid"
             },
             {
-                "level": 8,
+                "level": 4,
                 "name": "dodge"
             }
         ],
@@ -496,15 +496,15 @@
             ],
         "skills": [
             {
-                "level": 8,
+                "level": 6,
                 "name": "cutting"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "melee"
             },
             {
-                "level": 8,
+                "level": 6,
                 "name": "dodge"
             }
         ],
