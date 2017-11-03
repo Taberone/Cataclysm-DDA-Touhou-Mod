@@ -1,0 +1,43 @@
+[
+	{
+    "id": "mon_touhou_moonrabbit",
+    "type": "MONSTER",
+    "name": "moon rabbit",
+    "description": "A terrified and cowardly soldier. Judging by the uniform, she is a member of the Lunar Defense Corps. Were it not for the rabbit ears and tail, you would have mistaken her for a human.",
+    "default_faction": "human",
+    "species": [ "MAMMAL" ],
+    "diff": 8,
+    "size": "MEDIUM",
+    "hp": 60,
+    "speed": 110,
+    "material": [ "flesh" ],
+    "symbol": "@",
+    "color": "white",
+    "aggression": 2,
+    "morale": 5,
+    "melee_skill": 2,
+    "melee_dice": 1,
+    "melee_dice_sides": 6,
+    "melee_cut": 0,
+    "dodge": 1,
+    "path_settings": { "max_dist": 20 },
+	"vision_day": 50,
+    "vision_night": 4,
+	"special_attacks": [ [ "PARROT", 60 ] ],
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "subway", 40 ],
+        [ "sewer", 20 ],
+        [ "trash", 5 ],
+        [ "bedroom", 1 ],
+        [ "dresser", 5 ],
+        [ "ammo", 18 ]
+      ]
+    },
+	"anger_triggers": [ "FRIEND_ATTACKED", "HURT" ],
+    "fear_triggers": [ "FRIEND_DIED", "MEAT" ],
+    "death_function": [ "NORMAL" ],
+    "flags": [ "SEES", "HEARS", "WARM", "BASHES", "GROUP_BASH", "HUMAN", "PATH_AVOID_DANGER_2", "GRABS", "GROUP_MORALE", "HIT_AND_RUN", "BONES" ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"Is that you, Lady Yorihime?\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"Is that you, Lady Toyohime?\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"I wanna go home!\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"I don't wanna die... Please...\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"Stay back! I'm warning you!\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"Please don't kill me!\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"Leave me alone!\"",
+        "volume": 20
+    }
+]
