@@ -33,3 +33,6 @@ Playing as a male survivor will only change the underwear (Boxers instead of pan
 
 **New Scenarios:**
 * **Touhou:** All Touhou professions are playable. Greatly expanded range of starting locations, ranging from a FEMA camp to a gunstore to a LMOE shelter.
+
+**New Monsters:**
+* **Moon Rabbit:** WIP.
