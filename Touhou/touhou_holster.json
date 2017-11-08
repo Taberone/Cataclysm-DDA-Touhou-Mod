@@ -16,7 +16,7 @@
     "material_thickness" : 1,
     "use_action" : {
       "type": "holster",
-      "max_volume": 10,
+      "max_volume": 6,
       "skills": ["pistol", "smg", "rifle", "shotgun", "launcher"]
     },
     "flags" : ["WAIST", "OVERSIZE"]
