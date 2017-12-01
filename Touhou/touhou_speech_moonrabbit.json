@@ -2,13 +2,13 @@
 	{
         "type": "speech",
         "speaker": "mon_touhou_moonrabbit",
-        "sound": "\"Is that you, Lady Yorihime?\"",
+        "sound": "\"Is that you, lady Yorihime?\"",
         "volume": 20
     },
 	{
         "type": "speech",
         "speaker": "mon_touhou_moonrabbit",
-        "sound": "\"Is that you, Lady Toyohime?\"",
+        "sound": "\"Is that you, lady Toyohime?\"",
         "volume": 20
     },
 	{
@@ -39,6 +39,18 @@
         "type": "speech",
         "speaker": "mon_touhou_moonrabbit",
         "sound": "\"Leave me alone!\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"We're all gonna die!\"",
+        "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"Even on Earth, this is happening...\"",
         "volume": 20
     }
 ]
