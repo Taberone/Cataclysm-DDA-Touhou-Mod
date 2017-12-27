@@ -10,7 +10,7 @@ Playing as a male survivor will only change the underwear (Boxers instead of pan
 ----------------------------------------------------------------
 **New Professions:**
 
-* **Phantom Swordswoman:** Close-range killing machine. Knows Niten Ichi-Ryu, and has a katana and wakizashi (can't dual-wield unfortunately). Anything that gets in range of her will die in a flurry of sword slashes, but anything with a gun will utterly ruin her day unless she learns how to use one.
+* **Phantom Gardener:** Close-range killing machine. Knows Niten Ichi-Ryu, and has a katana and wakizashi (can't dual-wield unfortunately). Anything that gets in range of her will die in a flurry of sword slashes, but anything with a gun will utterly ruin her day unless she learns how to use one.
 * **Wicked Hermit:** Zombie Zlave master. Has the skills necessary to revive zombie corpses as loyal zlaves, knowledge of magic, and the ability to pass through walls via the Probability Travel CBM. Can easily build up an army of zombie zlaves. Befitting her lack of empathy, selfishness, and disrespect for the dead, she starts with the Psychopath trait. Starts with no weapons at the moment.
 * **Lunatic Moon Rabbit:** Gunslinger. Proficient in the usage of all firearms and has a targeting Bionic to enhance her accuracy even further. Packs a unique, UPS-powered pistol that can fire in bursts, has a custom-made holster, has a Unified Power System CBM, and has the ability to shoot hostiles with her fingers.
 * **Celestial Delinquent:** Made of iron. Resistant to pain and is tough enough to have natural armor. Carries a Sword of Hisou that takes up no space in her inventory until it is summoned into battle.
