@@ -486,8 +486,8 @@
 	{
         "type": "profession",
         "ident": "youmu_konpaku",
-        "name": "Phantom Swordswoman",
-        "description": "You were the faithful half-human, half-phantom servant of Yuyuko Saigyouji until the cataclysm struck, separating both of you. You stand alone against the coming darkness, but at least you have your skills as an expert swordswoman!",
+        "name": "Phantom Gardener",
+        "description": "You were the faithful half-human, half-phantom servant of Yuyuko Saigyouji until the cataclysm struck, separating both of you. You stand alone against the coming darkness with only your swordsmanship skills.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
