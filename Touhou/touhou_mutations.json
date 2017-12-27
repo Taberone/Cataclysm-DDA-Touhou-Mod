@@ -27,7 +27,7 @@
         ],
         "armor" : [ { "parts" : "ALL", "cut" : 20, "bash" : 20 } ],
 		"purifiable": false,
-        "profession": true
+        "profession": false
     },
 	{
         "type" : "mutation",
@@ -39,12 +39,12 @@
         "description" : "You have a phantom half following you around.",
 		"valid": false,
 		"purifiable": false,
-        "profession": true
+        "profession": false
     },
 	{
         "type" : "mutation",
         "id" : "PROF_YOUMU",
-        "name" : "Swordswoman",
+        "name" : "Expert Swordsman",
         "points" : 0,
         "description" : "You are experienced in the usage of swords.",
         "valid": false,
@@ -59,10 +59,9 @@
         "points" : 0,
         "visibility" : 2,
 		"ugliness" : 2,
-        "description" : "Like all moon rabbits, You have a fluffy little rabbit tail.",
-		"cancels" : ["TAIL_STUB"],
+        "description" : "You have a fluffy little rabbit tail.",
 		"purifiable": false,
-        "profession": true
+        "profession": false,
 		"cancels" : ["TAIL_LONG", "TAIL_THICK", "TAIL_FIN", "TAIL_RAT", "TAIL_RAPTOR", "TAIL_CATTLE", "TAIL_FLUFFY", "TAIL_STING", "TAIL_CLUB"]
     },
 	{
@@ -71,10 +70,10 @@
         "name" : "Rabbit Ears",
         "points" : 0,
 		"visibility": 4,
-        "description" : "Like all moon rabbits, you have a pair of rabbit ears.",
+        "description" : "You have a pair of rabbit ears.",
 		"valid": false,
 		"purifiable": false,
-        "profession": true
+        "profession": false,
 		"cancels" : ["FELINE_EARS", "URSINE_EARS", "ELFA_EARS", "CANINE_EARS", "LUPINE_EARS"]
     }
     ]
