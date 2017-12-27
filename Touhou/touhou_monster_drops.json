@@ -1,0 +1,17 @@
+[
+  {
+    "type" : "item_group",
+    "id" : "moonrabbit_drops",
+    "items":[
+      ["lunar_rifle", 3],
+	  ["bra", 1],
+      ["panties", 1],
+	  ["dress_shirt", 1],
+	  ["suit_reisen", 1],
+	  ["skirt", 1],
+	  ["lunar_helmet", 1],
+	  ["dress_shoes", 1],
+	  ["stockings", 1]
+    ]
+  }
+ ]
