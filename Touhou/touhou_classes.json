@@ -372,27 +372,27 @@
             ],
         "skills": [
             {
-                "level": 6,
+                "level": 8,
                 "name": "gun"
             },
             {
-                "level": 4,
+                "level": 6,
                 "name": "smg"
             },
 			{
-                "level": 4,
+                "level": 6,
                 "name": "shotgun"
             },
 			{
-                "level": 6,
+                "level": 8,
                 "name": "rifle"
             },
 			{
-                "level": 6,
+                "level": 8,
                 "name": "pistol"
             },
 			{
-                "level": 4,
+                "level": 6,
                 "name": "launcher"
             },
             {
