@@ -52,5 +52,11 @@
         "speaker": "mon_touhou_moonrabbit",
         "sound": "\"Even on Earth, this is happening...\"",
         "volume": 20
+    },
+	{
+        "type": "speech",
+        "speaker": "mon_touhou_moonrabbit",
+        "sound": "\"Don't come any closer!\"",
+        "volume": 20
     }
 ]

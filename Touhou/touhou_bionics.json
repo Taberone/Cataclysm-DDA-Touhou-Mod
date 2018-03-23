@@ -6,8 +6,7 @@
     "description": "You have the ability to shoot five bullets in quick succession from your fingers.",
     "occupied_bodyparts": [ [ "HAND_R", 1 ] ],
     "act_cost": 20,
-    "fake_item": "bio_reisen_gun",
-    "gun_bionic": true
+    "fake_item": "bio_reisen_gun"
   },
   {
     "id": "bio_reisen_II",
@@ -16,7 +15,6 @@
     "description": "You have the ability to shoot a single bullet from your fingers.",
     "occupied_bodyparts": [ [ "HAND_R", 1 ] ],
     "act_cost": 20,
-    "fake_item": "bio_reisen_II_gun",
-    "gun_bionic": true
+    "fake_item": "bio_reisen_II_gun"
   }
 ]
