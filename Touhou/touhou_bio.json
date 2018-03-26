@@ -18,7 +18,7 @@
     "reload": 0,
 	"modes": [ [ "DEFAULT", "auto", 5 ] ],
     "ammo_effects": [ "LASER", "INCENDIARY" ],
-    "flags": [ "NEVER_JAMS", "TRADER_AVOID", "BIONIC_GUN" ]
+    "flags": [ "NEVER_JAMS", "TRADER_AVOID"]
   },
   {
     "id": "bio_reisen_II_gun",
@@ -38,6 +38,6 @@
     "durability": 10,
     "reload": 0,
     "ammo_effects": [ "LASER", "INCENDIARY" ],
-    "flags": [ "NEVER_JAMS", "TRADER_AVOID", "BIONIC_GUN" ]
+    "flags": [ "NEVER_JAMS", "TRADER_AVOID" ]
   }
 ]
