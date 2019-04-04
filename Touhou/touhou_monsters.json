@@ -14,6 +14,7 @@
     "symbol": "@",
     "color": "white",
     "aggression": 2,
+	"harvest": "human",
     "morale": 5,
     "melee_skill": 2,
     "melee_dice": 1,
