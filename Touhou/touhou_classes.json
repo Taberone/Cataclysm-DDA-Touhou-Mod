@@ -512,8 +512,9 @@
             "both": {
                 "items": [
                 "stockings",
+				"skirt",
 				"dress_shirt",
-				"dress_youmu",
+				"vest_youmu",
 				"knit_scarf",
 				"ribbon_youmu",
 				"dress_shoes"

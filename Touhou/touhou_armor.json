@@ -225,11 +225,11 @@
     "flags": [ "VARSIZE", "FANCY" ]
 	},
 	{
-    "id": "dress_youmu",
+    "id": "vest_youmu",
     "type": "ARMOR",
-    "name": "phantom dress",
+    "name": "phantom vest",
     "name_plural": "phantom dresses",
-    "description": "A dark green and white dress with some pockets. Ghost insignias are present on the edges.",
+    "description": "A dark green and white vest with some pockets. Ghost insignias are present on the edges.",
     "weight": 680,
     "volume": 14,
     "price": 18000,
@@ -238,7 +238,7 @@
     "symbol": "[",
     "color": "pink",
 	"storage": 2,
-    "covers": [ "LEGS", "TORSO" ],
+    "covers": [ "TORSO" ],
     "coverage": 85,
     "encumbrance": 7,
     "warmth": 15,
