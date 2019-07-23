@@ -274,6 +274,10 @@
                 "level": 4,
                 "name": "melee"
             },
+			{
+                "level": 6,
+                "name": "cooking"
+            },
             {
                 "level": 4,
                 "name": "dodge"
