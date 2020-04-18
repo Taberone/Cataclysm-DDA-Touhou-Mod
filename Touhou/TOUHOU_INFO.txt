@@ -18,7 +18,7 @@ FEATURES
 
 -Youmu Konpaku profession: Custom dress, starts with two swords (can't dual-wield though), Swordswoman (Prof trait giving Niten), Phantom Half (Prof trait). Close-combat killing machine.
 
--Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't let her cut through walls yet, she gets Probability Travel for now), Dormant Minion, starts with Psychopath trait. Made for enslaving zombies.
+-Seiga Kaku profession: Custom dress, gets a unique hair stick (Doesn't let her cut through walls yet, she gets Probability Travel for now), starts with Psychopath trait. Made for enslaving zombies.
 
 -Reisen Udongein Inaba profession: Carries a Lunatic Pistol, a new business suit, a custom finger gun CBM, and a custom holster. Bionic gunslinger/aimbot.
 
