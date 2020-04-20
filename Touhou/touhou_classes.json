@@ -252,8 +252,8 @@
 	{
         "type": "profession",
         "ident": "sakuya_izayoi",
-        "name": "Chief Maid of the SDM",
-        "description": "The Scarlet Devil Mansion has been destroyed, and your mistress is presumably amongst the billions lost in the cataclysm. Survival is all that matters now, but how long will you last as a time-stopping, knife throwing maid?",
+        "name": "Maid of the Scarlet Devil",
+        "description": "Your mistress's mansion has been destroyed, and she is presumably amongst the billions lost in the cataclysm. Survival is all that matters now, but how long will you last as a time-stopping, knife throwing maid?",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
@@ -434,34 +434,44 @@
         "ident": "seiga_kaku",
         "name": "Wicked Hermit",
         "description": "You're a wicked, amoral hermit with the ability to pass through walls and enslave the undead. You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the cataclysm should be... Interesting.",
-        "points": 0,
-		"CBMs":[
-                "bio_torsionratchet",
-                "bio_power_storage_mkII",
-                "bio_probability_travel"
-            ],
+        "points": 6,
+		"spells": [ 
+			{ 
+				"id": "summon_zombie", 
+				"level": 5 
+			}, 
+			{ 
+			"id": "necrotic_gaze", 
+			"level": 1 
+			},
+			{
+			"id": "quantum_tunnel_lesser",
+			"level": 3
+			}
+			],
         "skills": [
             {
-                "level": 6,
+                "level": 2,
                 "name": "survival"
             },
-			{
-                "level": 6,
-                "name": "magic"
-            },
+			{ 
+				"level": 3, 
+				"name": "spellcraft" 
+			},
             {
-                "level": 6,
+                "level": 3,
                 "name": "firstaid"
             },
             {
-                "level": 4,
+                "level": 2,
                 "name": "dodge"
             }
         ],
 		"traits": [
             "PSYCHOPATH", 
 			"LIAR", 
-			"SPIRITUAL"
+			"SPIRITUAL",
+			"ANIMIST"
         ],
         "items": {
             "both": [
@@ -487,7 +497,7 @@
         "type": "profession",
         "ident": "youmu_konpaku",
         "name": "Phantom Gardener",
-        "description": "You were the faithful half-human, half-phantom servant of Yuyuko Saigyouji until the cataclysm struck, separating both of you. You stand alone against the coming darkness with only your swordsmanship skills.",
+        "description": "You were the faithful half-human, half-phantom servant of your master until the cataclysm struck, separating both of you. You stand alone against the coming darkness with only your swordsmanship skills.",
         "points": 0,
 		"CBMs":[
                 "bio_torsionratchet",
