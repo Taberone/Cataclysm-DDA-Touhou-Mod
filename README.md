@@ -3,8 +3,6 @@
 
 Contains new professions based off of Touhou, a special scenario with the Touhou professions and less limits on where to start, and new clothing/weapons/profession traits/etc specifically made for certain professions. This mod is considered unfinished, but functional.
 
-**The latest version of Arcana Mod is recommended, since the Wicket Hermit starts with the Arcana skill. Playing without Arcana Mod will spawn an error about a missing skill, but it won't render the game unplayable.**
-
 Playing as a male survivor will only change the underwear (Boxers instead of panties) and nothing else (still wearing a dress/skirt/etc) at the moment. **There is no compatibility with Chesthole or tilesets that actually display clothing and gear at the moment, at least with custom clothing/weapons/mutations added by this mod.**
 
 ----------------------------------------------------------------
