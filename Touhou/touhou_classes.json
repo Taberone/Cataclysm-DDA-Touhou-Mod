@@ -227,8 +227,8 @@
             "both": {
                 "items": [
 				"dress_shirt",
-				"tie_reisen",
 				"suit_reisen",
+				"tie_reisen",
 				"stockings",
 				"skirt",
 				"knit_scarf",
@@ -526,7 +526,7 @@
             "both": {
                 "items": [
                 "stockings",
-				"skirt",
+				"skirt_youmu",
 				"dress_shirt",
 				"vest_youmu",
 				"knit_scarf",
