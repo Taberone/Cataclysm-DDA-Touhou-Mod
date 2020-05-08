@@ -13,8 +13,8 @@
         "material": ["cotton"],
         "weight": "96 g",
 		"volume": "750 ml",
-		"cutting": 10,
-		"bashing": 10,
+		"cutting": 15,
+		"bashing": 15,
         "to_hit" : 2,
         "use_action": {
             "type": "transform",
@@ -44,8 +44,8 @@
         "material": ["cotton"],
         "weight": "96 g",
 		"volume": "750 ml",
-		"cutting": 10,
-		"bashing": 10,
+		"cutting": 15,
+		"bashing": 15,
         "to_hit" : 2,
         "use_action": {
             "type": "transform",
