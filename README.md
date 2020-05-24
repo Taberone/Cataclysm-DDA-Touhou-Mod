@@ -9,13 +9,13 @@ Playing as a male survivor will only change the underwear (Boxers instead of pan
 **New Professions:**
 
 * **Phantom Gardener:** Close-range killing machine. Knows Niten Ichi-Ryu, and has a katana and wakizashi (can't dual-wield unfortunately). Anything that gets in range of her will die in a flurry of sword slashes, but anything with a gun will utterly ruin her day unless she learns how to use one.
-* **Wicked Hermit:** Zombie Zlave master. Has the skills necessary to revive zombie corpses as loyal zlaves, knowledge of magic, and the ability to pass through walls via the Probability Travel spell. Can easily build up an army of zombie zlaves. Befitting her lack of empathy, selfishness, and disrespect for the dead, she starts with the Psychopath trait. Starts with a scalpel.
+* **Wicked Hermit:** Zombie Zlave master. Can summon friendly zombies and pass through walls via the Probability Travel spell. Befitting her lack of empathy, selfishness, and disrespect for the dead, she starts with the Psychopath trait. Starts with a scalpel.
 * **Lunatic Moon Rabbit:** Gunslinger. Proficient in the usage of all firearms and has a targeting Bionic to enhance her accuracy even further. Packs a unique, UPS-powered pistol that can fire in bursts, has a custom-made holster, has a Unified Power System CBM, and has the ability to shoot hostiles with her fingers.
 * **Celestial Delinquent:** Made of iron. Resistant to pain and is tough enough to have natural armor. Carries a Sword of Hisou that takes up no space in her inventory until it is summoned into battle.
 * **Chief Maid of the SDM:** Time-stopping, knife-throwing maid. Has several throwing knives, and a Time Dilation CBM.
 * **Moon Rabbit Recruit:** Lunar Defense Corps Trainee and royal pet of the Watatsuki family. Not quite as proficent in the usage of firearms compared to the Lunatic Moon Rabbit. Has a teleportation CBM, a downgraded ability to shoot hostiles with her fingers, and a special Lunar Rifle with a shoulder strap and bayonet.
 * **Oarfish Messenger:** Fancy fighter. Can whip people to death with her scarf and has electricity powers.
-* **Hourai Incarnate:** Has fire powers. Starts with knowledge of Taekwondo (Since the attack descriptions are usually about kicking, which Mokou does in Urban Legend In Limbo), special talismans that help her resist flames, a Mini-Flamethrower CBM, and a Thermal Dissipation CBM. 
+* **Hourai Incarnate:** Has knowledge of fire-based magic. Starts with knowledge of Taekwondo (Since the attack descriptions are usually about kicking, which Mokou does in Urban Legend In Limbo), and special talismans that help her resist flames.
 * **Lateral-Thinking Kappa:** WIP.
 
 **New Weapons:**
