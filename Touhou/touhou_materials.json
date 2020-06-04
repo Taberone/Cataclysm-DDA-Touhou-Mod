@@ -5,6 +5,7 @@
     "ident": "touhou_paper_mokou",
     "name": "fireproof paper",
     "copy-from": "paper",
+	"fire_resist": 20,
 	"burn_data": [
       { "immune": true },
       { "immune": true },
