@@ -46,19 +46,8 @@
     "type": "ARMOR",
     "name": "long skirt",
     "description": "A long black skirt.",
-    "weight": "74 g",
-    "volume": "250 ml",
-    "price": 6500,
-	"price_postapoc": 50,
-    "material": [ "cotton" ],
-    "symbol": "[",
-	"looks_like": "skirt",
-    "color": "dark_gray",
-    "covers": [ "LEGS" ],
-    "coverage": 90,
-    "storage": "250 ml",
-    "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "copy-from": "skirt",
+    "coverage": 70
 	},
 	{
     "id": "fedora_iku",
