@@ -207,7 +207,7 @@
         "weight": "3 g",
 		"volume": "5 ml",
         "flags" : ["FANCY"],
-		"use_action": { "type": "picklock", "pick_quality": 3 },
+		"use_action": [ "PICK_LOCK" ],
 		"qualities": [ [ "LOCKPICK", 3 ] ]
     },
 	{
