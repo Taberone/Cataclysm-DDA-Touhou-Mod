@@ -258,23 +258,10 @@
 	},
 	{
     "id": "skirt_youmu",
-    "repairs_like": "jeans",
-    "type": "ARMOR",
+	"type": "ARMOR",
     "name": { "str": "phantom skirt" },
     "description": "A green skirt. Ghost insignias are present on the edges.",
-    "weight": "74 g",
-    "volume": "250 ml",
-    "price": 6500,
-    "price_postapoc": 50,
-    "material": [ "cotton" ],
-    "symbol": "[",
-    "looks_like": "kilt",
-    "color": "dark_gray",
-    "covers": [ "LEGS" ],
-    "coverage": 50,
-    "storage": "250 ml",
-    "warmth": 5,
-    "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+	"copy-from": "skirt",
+	"flags": [ "FANCY" ]
   }
-    ]
+]
