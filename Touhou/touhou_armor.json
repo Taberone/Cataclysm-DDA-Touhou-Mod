@@ -17,7 +17,7 @@
     "warmth": 0,
     "material_thickness": 5,
 	"environmental_protection": 10,
-    "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS" ]
+    "flags": [ "VARSIZE", "STURDY", "ZERO_WEIGHT", "ALLOWS_NATURAL_ATTACKS" ]
 	},
 	{
     "id": "dress_shirt_iku",
@@ -42,42 +42,15 @@
     "name": "oarfish fedora",
 	"name_plural": "oarfish fedoras",
     "description": "A fedora decorated with a red bow and two long ribbons extending out.",
-    "weight": "350 g",
-    "volume": "1750 ml",
-    "price": 7500,
-    "price_postapoc": 100,
-    "material": [ "leather" ],
-    "symbol": "[",
-    "color": "dark_gray",
-    "covers": [ "HEAD" ],
-    "coverage": 50,
-    "encumbrance": 10,
-    "warmth": 7,
-    "material_thickness": 2,
-    "environmental_protection": 3,
-    "flags": [ "FANCY", "VARSIZE", "SUN_GLASSES" ]
+	"copy-from": "fedora"
 	},
 	{
     "id": "bowhat_tenshi",
-	"repairs_like": "balclava",
     "type": "ARMOR",
     "name": "celestial hat",
 	"name_plural": "celestial hats",
     "description": "A bowler hat decorated with peaches and leaves.",
-    "weight": "213 g",
-    "volume": "1250 ml",
-    "price": 4500,
-	"price_postapoc": 50,
-    "material": [ "cotton" ],
-    "symbol": "[",
-	"looks_like": "hat_cotton",
-    "color": "dark_gray",
-    "covers": [ "HEAD" ],
-    "coverage": 50,
-    "encumbrance": 15,
-    "warmth": 5,
-    "material_thickness": 2,
-    "environmental_protection": 1,
+	"copy-from": "bowhat",
     "flags": [ "FANCY", "VARSIZE" ]
 	},
 	{

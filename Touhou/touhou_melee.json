@@ -10,7 +10,7 @@
     "description": "A golden, shape-shifting jian that is spiritually summoned into battle, allowing it to be stored without taking up a significant amount of space or weighing the user down. Activate to summon it.",
     "price": 160000,
     "material": "gold",
-    "flags" : ["UNARMED_WEAPON", "TRADER_AVOID"],
+    "flags" : ["UNARMED_WEAPON", "ZERO_WEIGHT", "TRADER_AVOID"],
 	 "use_action": {
             "menu_text": "Summon Sword",
             "type": "transform",
