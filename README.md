@@ -1,5 +1,7 @@
 # Cataclysm-DDA-Touhou-Mod
-**Goes in data/mods. Magiclysm is required**
+**Feel free to fork this mod and do whatever you want with it, I guess. I haven't been too active with modding CDDA recently.**
+
+**This mod goes in data/mods. Magiclysm is required.**
 
 Contains new professions based off of Touhou, a special scenario with the Touhou professions and less limits on where to start, and new clothing/weapons/profession traits/etc specifically made for certain professions. This mod is considered unfinished, but functional.
 
