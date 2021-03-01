@@ -1,5 +1,5 @@
 # Cataclysm-DDA-Touhou-Mod
-**Feel free to fork this mod and do whatever you want with it, I guess. I haven't been too active with modding CDDA recently.**
+**Feel free to fork this mod and do whatever you want with it, I guess. I haven't been too active with modding CDDA recently. Just credit me if you make a fork of this.**
 
 **This mod goes in data/mods. Magiclysm is required.**
 
